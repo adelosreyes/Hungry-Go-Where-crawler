@@ -1,0 +1,853 @@
+url,title,price,address,type,cuisine
+https://www.hungrygowhere.com/singapore/cafe_2000/,Cafe 2000,$$$,"GF M Hotel, 81 Anson Road, 079908",Restaurant,Asian • Western
+https://www.hungrygowhere.com/singapore/tea-bar-anson-tanjong-pagar/,Tea Bar,$,"M Hotel, 81 Anson Road, 079908",Cafe,Western
+https://www.hungrygowhere.com/singapore/city-hot-pot-shabu-shabu-raffles-place-boat-quay/,City Hot Pot Shabu Shabu,$$,"#04-28 One Raffles Place, 1 Raffles Place, 048616",Restaurant,Asian • Steamboat
+https://www.hungrygowhere.com/singapore/Chicken_Up__Tanjong_Pagar_/,Chicken Up (Tanjong Pagar),$$,"#01-01, 48 Tanjong Pagar Road, 088469",Restaurant,Asian • Korean
+https://www.hungrygowhere.com/singapore/the-dim-sum-place-bugis-beach-road/,The Dim Sum Place,$,"791 North Bridge Road, 198759",Restaurant,Asian • Cantonese • Dim Sum • Halal
+https://www.hungrygowhere.com/singapore/escape-restaurant-lounge-little-india/,Escape Restaurant & Lounge,$$,"Lobby Level One Farrer Hotel, 1 Farrer Park Station Road, 217562",Restaurant,International • Local
+https://www.hungrygowhere.com/singapore/morganfield-s/,Morganfield's (Orchard Central),$,"#11-03/04 Orchard Central, 181 Orchard Road, 238896",Restaurant,American • Western
+https://www.hungrygowhere.com/singapore/colony-suntec-city-hall/,Colony,$$$$,"Level 3 The Ritz-Carlton, Millenia Singapore, 7 Raffles Avenue, 039799",Restaurant,Asian • Fusion • Western
+https://www.hungrygowhere.com/singapore/shang-pin-hot-pot-suntec-city-hall/,Shang Pin Hot Pot (Marina Square),$$,"#02-102/102A Marina Square, 6 Raffles Boulevard, 039594",Restaurant,Chinese • Steamboat
+https://www.hungrygowhere.com/singapore/8-korean-bbq-scotts-road-newton/,8 Korean BBQ (Shaw Centre),$$,"#04-20/21 Shaw Centre, 1 Scotts Road, 228208",Restaurant,Asian • Barbecue • Korean
+https://www.hungrygowhere.com/singapore/tekong-seafood-restaurant/,Tekong Seafood Restaurant,$$,"#01-03, 6 Changi Village Road, 509907",Restaurant,Chinese • Seafood
+https://www.hungrygowhere.com/singapore/cafe_2000/,Cafe 2000,$$$,"GF M Hotel, 81 Anson Road, 079908",Restaurant,Asian • Western
+https://www.hungrygowhere.com/singapore/oberstrasse-jalan-besar-lavender/,Oberstrasse,$,"#01-50 Kitchener Complex, 809 French Road, 200809",Restaurant,Western
+https://www.hungrygowhere.com/singapore/ishinomaki-grill-sake-orchard-river-valley/,Ishinomaki Grill & Sake,$$$$,"#B1-02/02A/03 Palais Renaissance, 390 Orchard Road, 238871",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/chili_s_grill_bar_tanglin_mall/,Chili's American Grill & Bar (Tanglin Mall),$$,"#02-23 Tanglin Mall, 163 Tanglin Road, 247933",Restaurant,American • Drinks • Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/chilli-s-the-central-clarke-quay/,Chili's American Grills & Bar (Clarke Quay),$$,"#01-18 The Central, 6 Eu Tong Sen Street, 059817",Restaurant,American • Drinks • Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/aquamarine/,AquaMarine,$$$,"Level 4 Marina Mandarin Hotel, 6 Raffles Boulevard, 039594",Restaurant,Halal • International
+https://www.hungrygowhere.com/singapore/pete_s_place/,Pete's Place,$$$,"Grand Hyatt Singapore, 10 Scotts Road, 228211",Restaurant,European • Italian • Pizza • Western
+https://www.hungrygowhere.com/singapore/xiangtianxia-hotpot/,Spice World Hot Pot,$$$,"#01-06/07, 3B River Valley Road, 179021",Restaurant,Chinese • Steamboat
+https://www.hungrygowhere.com/singapore/wang-dae-bak-korean-bbq-restaurant-raffles-place-boat-quay/,Wang Dae Bak Korean BBQ Restaurant (China Square Central),$$,"#01-64 China Square Central, 22 Cross Street, 048421",Restaurant,Asian • Korean
+https://www.hungrygowhere.com/singapore/noodle-thai-thai-kitchen-bugis-beach-road/,Noodle Thai - Thai Kitchen - Authentic and affordable Thai food,$,"Kampong Glam Conservation Area, 327 Beach Road, 199560",Restaurant,Thai
+https://www.hungrygowhere.com/singapore/princess_terrace/,Princess Terrace,$$,"1F Copthorne King's, 403 Havelock Road, 169632",Restaurant,Asian • Indonesian • Malay • Malay / Indonesian • Malaysian
+https://www.hungrygowhere.com/singapore/melt-cafe-suntec-city-hall/,Melt Cafe,$$$$,"4F Mandarin Oriental, Singapore, 5 Raffles Avenue, 039797",Restaurant,International
+https://www.hungrygowhere.com/singapore/xin_cuisine_chinese_restaurant/,Xin Cuisine Chinese Restaurant,$$,"#04-00 Holiday Inn Singapore Atrium, 317 Outram Road, 169075",Restaurant,Asian • Cantonese • Chinese • Dim Sum
+https://www.hungrygowhere.com/singapore/princess_terrace/,Princess Terrace,$$,"1F Copthorne King's, 403 Havelock Road, 169632",Restaurant,Asian • Indonesian • Malay • Malay / Indonesian • Malaysian
+https://www.hungrygowhere.com/singapore/gyu_kaku_japanese_bbq_restaurant_chijmes/,Gyu-Kaku Japanese BBQ Restaurant (Chijmes),$$$$,"#01-01/02 Chijmes, 30 Victoria Street, 187996",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/straits-cafe-rendezvous-bugis/,Straits Cafe @ Rendezvous,$$,"Lobby Level Rendezvous Grand Hotel Singapore, 9 Bras Basah Road, 189559",Cafe,Asian • Halal • International • Local • Singaporean
+https://www.hungrygowhere.com/singapore/hokkaido_sushi_restaurant/,Hokkaido Sushi Restaurant,$$$$,"9F M Hotel, 81 Anson Road, 079908",Restaurant,Asian • Japanese • Seafood
+https://www.hungrygowhere.com/singapore/edge-suntec--city-hall/,Edge,$$$$,"Level 3 The Pan Pacific Hotel Singapore, 7 Raffles Boulevard, 039595",Restaurant,Chinese • Indian • Japanese • Singaporean • Thai
+https://www.hungrygowhere.com/singapore/kinou/,Kinou,$$,"Tanjong Pagar Conservation Area, 81 Tras Street, 079020",Restaurant,Cocktails • Drinks • Fusion • International • Snacks
+https://www.hungrygowhere.com/singapore/indo-chili-zion-road/,IndoChili (Zion Road),$$,"54 Zion Road, 247779",Restaurant,Asian • Halal • Indonesian • Malay • Malay / Indonesian
+https://www.hungrygowhere.com/singapore/ashino-bugis/,Ashino,$$$$,"#01-23 Chijmes, 30 Victoria Street, 187996",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/the_line/,The Line,$$$$,"Shangri-La Hotel, 22 Orange Grove Road, 258350",Restaurant,International
+https://www.hungrygowhere.com/singapore/brazil-churrasco-ghim-moh-holland/,Brazil Churrasco,$$$,"14/16 Sixth Avenue, 276476",Restaurant,Brazilian • Desserts • Latin American • Western
+https://www.hungrygowhere.com/singapore/Chikuyotei__InterContinental_Singapore_/,Chikuyotei (InterContinental Singapore),$$$$,"Lobby InterContinental Singapore, 80 Middle Road, 188966",Bar or Pub,Asian • Japanese • Wine
+https://www.hungrygowhere.com/singapore/bb-guo-marina-south/,BB Hotpot,$$$,"#02-06 Marina Bay Financial Centre Tower 3, 12 Marina Boulevard, 018982",Restaurant,Chinese • Steamboat
+https://www.hungrygowhere.com/singapore/upin-hot-pot-chinatown/,Upin Hot Pot (The Central),$$$,"#03-87 The Central, 6 Eu Tong Sen Street, 059817",Restaurant,Chinese
+https://www.hungrygowhere.com/singapore/chicken-up-orchard-river-valley/,Chicken Up (Orchard),$$,"#01-33H The Centrepoint, 176 Orchard Road, 238843",Restaurant,Asian • Korean
+https://www.hungrygowhere.com/singapore/io-italian-osteria-hillview/,iO Italian Osteria,$$$,"#02-01 HillV2, 4 Hillview Rise, 667979",Restaurant,Cocktails • European • Italian • Western • Wine
+https://www.hungrygowhere.com/singapore/irodori-japanese-restaurant-tiong-bahru-outram/,"Irodori Japanese Restaurant (Four Points by Sheraton Singapore, Riverview)",$$,"#03-01 Four Points By Sheraton Singapore, Riverview, 382 Havelock Road, 169629",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/tien_court/,Tien Court,$$$,"2F Copthorne King's, 403 Havelock Road, 169632",Restaurant,Asian • Cantonese • Chinese • Sichuan
+https://www.hungrygowhere.com/singapore/indo-chili-anson-tanjong-pagar/,IndoChili (Tanjong Pagar Centre),$$,"#B1-03, 7 Wallich Street, 078884",Restaurant,Halal • Indonesian
+https://www.hungrygowhere.com/singapore/oscar_s_cafe_terrace/,Oscar's,$$$$,"Lobby Level Conrad Centennial Singapore, 2 Temasek Boulevard, 038982",Restaurant,International
+https://www.hungrygowhere.com/singapore/the_buffet/,The Buffet,$$$,"Level 2 M Hotel, 81 Anson Road, 079908",Restaurant,International
+https://www.hungrygowhere.com/singapore/collins-orchard-river-valley/,COLLIN’S® (Cineleisure Orchard),$,"#B1-08/09 Cineleisure Orchard, 8 Grange Road, 239695",Restaurant,Western
+https://www.hungrygowhere.com/singapore/saltwater-cafe-village-hotel-changi-changi-village-loyang/,Saltwater Cafe @ Village Hotel Changi,$$,"Level 1 Village Hotel Changi, 1 Netheravon Road, 508502",Cafe,Asian • Halal • International • Seafood • Singaporean
+https://www.hungrygowhere.com/singapore/akira-back-bugis/,Akira Back,$$$$,"(Access via Nicoll Highway) JW Marriott Hotel Singapore South Beach, 30 Beach Road, 189763",Restaurant,Japanese • Korean
+https://www.hungrygowhere.com/singapore/morganfields-dover-buona-vista-ayer-rajah/,Morganfield's (The Star Vista),$$,"#02-23 The Star Vista, 1 Vista Exchange Green, 138617",Restaurant,American • Western
+https://www.hungrygowhere.com/singapore/kuishin_bo_suntec_city/,Kuishin Bo Authentic Japanese Buffet (Suntec City Mall),$$$,"#03-334 to 337 Suntec City North Wing Suntec City Mall, 3 Temasek Boulevard, 038983",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/stickies-bar-chinatown/,Stickies Bar @ Keng Cheow (Keng Cheow),$$,"#01-10 The Riverside Piazza, 11 Keng Cheow Street, 059608",Bar or Pub,Beer • Drinks • Western
+https://www.hungrygowhere.com/singapore/3-crab-delicacy-seafood-restaurant/,3 Crab Delicacy Seafood Restaurant (Tiong Bahru),$$,"#01-04 Link Hotel, 50 Tiong Bahru Road, 168733",Restaurant,Chinese • Seafood • Singaporean • Teochew
+https://www.hungrygowhere.com/singapore/big-small-restaurant/,Big & Small Restaurant (formerly Jim Garden珍厨名苑),,"4 Craig Road, 089664",Restaurant,Chinese • Shanghainese
+https://www.hungrygowhere.com/singapore/cast-iron-bugis/,Cast Iron,$$$$,"#01-32/33 Duo Galleria, 7 Fraser Street, 189356",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/the-boiler-louisiana-seafood-beer-macpherson-upper-aljunied-paya-lebar/,The Boiler Seafood Bar & Beer (Howard),$$$,"#01-06 Novelty Bizcentre, 18 Howard Road, 369585",Bar or Pub,American • Cajun/Creole • Seafood • Western
+https://www.hungrygowhere.com/singapore/shang-pin-hot-pot-bugis/,Shang Pin Hot Pot (Rendezvous Gallery),$$$,"#02-02 Rendezvous Hotel Singapore, 9 Bras Basah Road, 189559",Restaurant,Chinese • Steamboat
+https://www.hungrygowhere.com/singapore/rasa-istimewa-woodlands-waterfront-restaurant-sembawang/,Rasa Istimewa Woodlands Waterfront Restaurant,$$,"Woodlands Waterfront Park, 6A Admiralty Road West, 757445",Restaurant,Halal • Seafood • Western
+https://www.hungrygowhere.com/singapore/morganfield-s-suntec-city-hall/,Morganfield's (Suntec City Mall),$$,"#01-645/646 Suntec City East Wing Suntec City Mall, 3 Temasek Boulevard, 038983",Restaurant,American • Western
+https://www.hungrygowhere.com/singapore/anti-dote-bugis/,Anti:dote,$$$,"Level 1 Fairmont Singapore, 80 Bras Basah Road, 189560",Bar or Pub,Cocktails • Drinks • Western
+https://www.hungrygowhere.com/singapore/upin-hot-pot-orchard-river-valley/,Upin Hot Pot (Orchard Gateway),$$$,"#04-19 Orchard Gateway, 277 & 218 Orchard Road, 238858",Restaurant,Chinese
+https://www.hungrygowhere.com/singapore/fat-bird-bugis/,Fat Bird (Liang Seah),$$,"#01-15/16 Liang Seah Place, 1 Liang Seah Street, 189022",Restaurant,Chinese • Sichuan • Zi Char
+https://www.hungrygowhere.com/singapore/indo-chili-anson-tanjong-pagar/,IndoChili (Tanjong Pagar Centre),$$,"#B1-03, 7 Wallich Street, 078884",Restaurant,Halal • Indonesian
+https://www.hungrygowhere.com/singapore/happenstance-cafe-balestier-whampoa-boon-keng/,Happenstance Cafe - Pet-friendly cafe with a pleasant and welcoming environment,$$,"35 Opal Crescent, 328425",Cafe,European • Western
+https://www.hungrygowhere.com/singapore/sea-tripod-seafood-paradise-cantonment-tanjong-pagar-chinatown/,Sea Tripod Seafood Paradise,$$,"#01-02 Dorsett Residences, 331 New Bridge Road, 088764",Restaurant,Seafood • Steamboat
+https://www.hungrygowhere.com/singapore/peony_jade_restaurant_clarke_quay/,Peony Jade Restaurant (Clarke Quay),$$$,"#02-02 Clarke Quay, 3A River Valley Road, 179020",Restaurant,Asian • Cantonese • Chinese • Dim Sum • Sichuan
+https://www.hungrygowhere.com/singapore/arbite/,Arbite,$$,"66A Serangoon Garden Way, 555962",Restaurant,European • Western
+https://www.hungrygowhere.com/singapore/lawry_s_the_prime_rib_singapore_mandarin_gallery/,Lawry's The Prime Rib (Mandarin Gallery),$$$$,"#04-01/31 Mandarin Gallery, Mandarin Orchard Singapore, 333A Orchard Road, 238897",Restaurant,American • Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/dm-chicken-chinatown/,DM Chicken,$$,"#03-00, 191B New Bridge Road, 059423",Restaurant,Chinese • Korean
+https://www.hungrygowhere.com/singapore/kueh-ho-jiak/,Kueh Ho Jiak (East Village),$,"#01-62 East Village, 430 Upper Changi Road, 487048",Kiosk or Stall,Chinese
+https://www.hungrygowhere.com/singapore/fart-tartz-changi-bedok-north/,Fart Tartz (Singapore Expo),$,"#02-04 Singapore Expo, Max-Atria (Foyer 1), 1 Expo Drive, 486150",Confectionery or Bakery,Desserts
+https://www.hungrygowhere.com/singapore/cherry-garden-raffles-avenue-suntec-city-hall/,Cherry Garden,$$$$,"5F Mandarin Oriental Singapore, 5 Raffles Avenue, 039797",Restaurant,Asian • Cantonese • Chinese • Dim Sum
+https://www.hungrygowhere.com/singapore/kinou/,Kinou,$$,"Tanjong Pagar Conservation Area, 81 Tras Street, 079020",Restaurant,Cocktails • Drinks • Fusion • International • Snacks
+https://www.hungrygowhere.com/singapore/morganfield-s/,Morganfield's (Orchard Central),$,"#11-03/04 Orchard Central, 181 Orchard Road, 238896",Restaurant,American • Western
+https://www.hungrygowhere.com/singapore/steakville/,Steakville,,"#01-56 Sunshine Plaza, 91 Bencoolen Street, 189652",Restaurant,Cocktails • Drinks • Italian • Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/pizzaexpress-marina-south/,PizzaExpress (Marina One),$$,"#01-20/21 Marina One, 5 Straits View, 018935",Restaurant,Italian • Pizza
+https://www.hungrygowhere.com/singapore/sky22-novena-thomson/,Sky22,$$,"Level 22 Courtyard by Marriott Singapore Novena, 99 Irrawaddy Road, 329568",Restaurant,Asian • International • Singaporean
+https://www.hungrygowhere.com/singapore/spagtacular-chinatown/,Spagtacular,$$,"54 South Bridge Road, 058685",Restaurant,Western
+https://www.hungrygowhere.com/singapore/straitskitchen/,StraitsKitchen,$$$,"Grand Hyatt Singapore, 10 Scotts Road, 228211",Restaurant,Asian • Halal
+https://www.hungrygowhere.com/singapore/brotzeit_german_bier_bar_restaurant_vivocity/,Brotzeit German Bier Bar & Restaurant (Vivo City),$$,"#01-149/151 VivoCity, 1 HarbourFront Walk, 098585",Bar or Pub,Beer • European • German • Western • Wine
+https://www.hungrygowhere.com/singapore/The_Landing_Point_/,The Landing Point,$$$,"Fullerton Bay Hotel, 80 Collyer Quay, 049326",Bar or Pub,Asian • Beer • International • Western • Wine
+https://www.hungrygowhere.com/singapore/3-crab-delicacy-seafood-restaurant-sengkang-hougang-buangkok-/,3 Crab Delicacy Seafood Restaurant (Upper Serangoon),$$,"21 Teck Chye Terrace, 545726",Restaurant,Chinese • Seafood • Singaporean • Teochew
+https://www.hungrygowhere.com/singapore/tea-bar-anson-tanjong-pagar/,Tea Bar,$,"M Hotel, 81 Anson Road, 079908",Cafe,Western
+https://www.hungrygowhere.com/singapore/the_buffet/,The Buffet,$$$,"Level 2 M Hotel, 81 Anson Road, 079908",Restaurant,International
+https://www.hungrygowhere.com/singapore/Himawari_Japanese_Restaurant__alexandra_/,Himawari Japanese Restaurant (Alexandra Road),$$$,"#01-08/09, 991B Alexandra Road, 119970",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/tiffany_cafe_restaurant/,Tiffany Cafe & Restaurant,$$,"2F Furama City Centre Singapore, 60 Eu Tong Sen Street, 059804",Cafe,Halal • International
+https://www.hungrygowhere.com/singapore/hua-ting-steamboat-orchard-river-valley-01-08/,Hua Ting Steamboat,$$$,"#01-08 Claymore Connect, 442 Orchard Road, 238879",Restaurant,Cantonese • Chinese • Steamboat
+https://www.hungrygowhere.com/singapore/atrium-restaurant-tiong-bahru-outram/,Atrium Restaurant,$$$,"Level 4 Holiday Inn Singapore Atrium, 317 Outram Road, 169075",Restaurant,Asian • International • Western
+https://www.hungrygowhere.com/singapore/wolfgang-s-steakhouse-by-wolfgang-zwiener/,Wolfgang's Steakhouse by Wolfgang Zwiener,$$$$,"#02-01 Intercontinental Singapore Robertson Quay, 1 Nanson Road, 238909",Restaurant,American • Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/morganfield-s-telok-blangah-harbourfront/,Morganfield's (Vivo City),$$,"#01-51A Vivocity, 1 Harbourfront Walk, 098585",Restaurant,American • Western
+https://www.hungrygowhere.com/singapore/dian_xiao_er_tampines_1/,Dian Xiao Er (Tampines 1),$$,"#04-15 Tampines One, 10 Tampines Central 1, 529536",Restaurant,Asian • Chinese
+https://www.hungrygowhere.com/singapore/town_restaurant/,Town (The Fullerton Hotel Singapore),$$$$,"Level 1 The Fullerton Hotel Singapore, 1 Fullerton Square, 049178",Restaurant,Asian • International
+https://www.hungrygowhere.com/singapore/chilli-s-the-central-clarke-quay/,Chili's American Grills & Bar (Clarke Quay),$$,"#01-18 The Central, 6 Eu Tong Sen Street, 059817",Restaurant,American • Drinks • Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/muk-bang-korean-restaurant/,Muk-Bang Korean Restaurant,$,"#01-02 Viva Business Park, 750 Chai Chee Road, 469000",Restaurant,Halal • Korean
+https://www.hungrygowhere.com/singapore/the-lobby-lounge/,The Lobby Lounge (Shangrila) (Shangri-La Hotel Singapore),$,"Lobby Level Shangri-la Hotel, Tower Wing, 22 Orange Grove Road, 258350",Cafe,Singaporean
+https://www.hungrygowhere.com/singapore/guo-fu-steamboat-raffles-place-boat-quay/,Guo Fu Steamboat,$$,"#01-31/32/33 China Square Central, 20 Cross Street, 048422",Restaurant,Asian • Chinese
+https://www.hungrygowhere.com/singapore/nassim_hill/,Nassim Hill Bakery Bistro Bar,$$,"#01-03 Tanglin Post Office, 56 Tanglin Road, 247964",Cafe,Desserts • Pizza • Snacks • Western
+https://www.hungrygowhere.com/singapore/zafferano/,Zafferano - Italian Restaurant & Lounge,$$$$,"Level 43 Ocean Financial Centre, 10 Collyer Quay, 049315",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/sofra_turkish_cafe_restaurant/,Sofra Turkish Cafe & Restaurant,$$,"#02-42/43/44 Shaw Towers, 100 Beach Road, 189702",Cafe,Halal • Iranian • Mediterranean • Middle Eastern • Turkish
+https://www.hungrygowhere.com/singapore/toby-s-estate/,Toby's Estate,$,"#01-03/04 Robertson Quay, 8 Rodyk Street, 238216",Cafe,Australian • Western
+https://www.hungrygowhere.com/singapore/manna_korea_telok_ayer/,Manna Korean Restaurant,$$,"101 Telok Ayer Street, 068574",Restaurant,Asian • Korean
+https://www.hungrygowhere.com/singapore/Fat_Cow_/,Fat Cow,$$$$,"#01-01/02 Camden Medical Centre, 1 Orchard Boulevard, 248649",Bar or Pub,Asian • Japanese • Steak and Grills • Wine
+https://www.hungrygowhere.com/singapore/sin-heng-kee-porridge-yishun/,Sin Heng Kee Porridge (Chong Pang),,"#01-19/21, 101 Yishun Avenue 5, 760101",Restaurant,Chinese
+https://www.hungrygowhere.com/singapore/indo-chili-zion-road/,IndoChili (Zion Road),$$,"54 Zion Road, 247779",Restaurant,Asian • Halal • Indonesian • Malay • Malay / Indonesian
+https://www.hungrygowhere.com/singapore/brotzeit_german_bier_bar_restaurant_raffles_city/,Brotzeit (Raffles City),$$,"#01-17 Raffles City Shopping Centre, 252 North Bridge Road, 179103",Bar or Pub,Beer • European • German • Italian • Pizza • Western • Wine
+https://www.hungrygowhere.com/singapore/noodle-thai-thai-kitchen-bugis-beach-road/,Noodle Thai Thai Kitchen (Beach Road),$,"Kampong Glam Conservation Area, 327 Beach Road, 199560",Restaurant,Thai
+https://www.hungrygowhere.com/singapore/summer-pavilion-suntec--city-hall/,Summer Pavilion,$$$$,"The Ritz-Carlton, Millenia Singapore, 7 Raffles Avenue, 039799",Restaurant,Asian • Cantonese • Chinese • Dim Sum • Hong Kong
+https://www.hungrygowhere.com/singapore/carousel/,Carousel,$$$,"Lobby Level Royal Plaza On Scotts, 25 Scotts Road, 228220",Restaurant,Halal • International
+https://www.hungrygowhere.com/singapore/g7_sin_ma_live_seafood_restaurant_geylang/,G7 Sinma Live Seafood Restaurant (Geylang),$$,"#01-01/02, 161, 163 Geylang Road Lorong 3, 389239",Restaurant,Chinese • Local • Seafood • Singaporean • Zi Char
+https://www.hungrygowhere.com/singapore/peony_jade_restaurant_keppel_club/,Peony Jade Restaurant (Keppel Club),$$$,"Level M Keppel Club, 10 Bukit Chermin Road, 109918",Restaurant,Asian • Cantonese • Chinese • Dim Sum • Sichuan
+https://www.hungrygowhere.com/singapore/indo-chili-zion-road/,IndoChili (Zion Road),$$,"54 Zion Road, 247779",Restaurant,Asian • Halal • Indonesian • Malay • Malay / Indonesian
+https://www.hungrygowhere.com/singapore/al_forno_east_coast/,Al Forno (East Coast),$$$,"400 East Coast Road, 428996",Restaurant,European • Italian • Pizza • Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/escape-restaurant-lounge-little-india/,"Escape Restaurant & Lounge - Promotions, Reviews, Price",$$,"Lobby Level One Farrer Hotel, 1 Farrer Park Station Road, 217562",Restaurant,International • Local
+https://www.hungrygowhere.com/singapore/yummy-punjaby-bukit-merah-redhill-alexandra/,IJ's Yummy Punjaby,$,"#01-07 Alexandra Central, 321 Alexandra Road, 159971",Restaurant,Asian • Indian • North Indian
+https://www.hungrygowhere.com/singapore/jai_thai_clover_way/,Jai Thai (Clover Way),$,"7 Clover Way, 579080",Restaurant,Asian • Thai
+https://www.hungrygowhere.com/singapore/555-villa-thai-changi-north-changi-coast/,555 Villa Thai,$$,"30 Cosford Road, 499550",Restaurant,Steamboat • Thai
+https://www.hungrygowhere.com/singapore/makan-jen-orchard-river-valley/,Makan@Jen,$$$,"#10-01 Hotel Jen Orchardgateway Singapore, 277 Orchard Road, 238858",Restaurant,International • Local
+https://www.hungrygowhere.com/singapore/icehaus-alley-on-25/,Icehaus @ Alley on 25,,"Level 25 Andaz Singapore, 5 Fraser Street, 189354",Restaurant,International
+https://www.hungrygowhere.com/singapore/dian-xiao-er-serangoon/,Dian Xiao Er (Nex),$$,"#02-09/10 Nex, 23 Serangoon Central, 556083",Restaurant,Asian • Chinese
+https://www.hungrygowhere.com/singapore/the-peranakan-orchard-river-valley/,The Peranakan,$$$,"#02-01/17 Claymore Connect Mall, 442 Orchard Road, 238879",Restaurant,Nonya / Peranakan
+https://www.hungrygowhere.com/singapore/keyaki_pan_pacific_singapore/,Keyaki Japanese Restaurant,$$$$,"Level 4 Pan Pacific Hotel Singapore, 7 Raffles Boulevard, 039595",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/muk-bang-korean-restaurant/,Muk-Bang Korean Restaurant,$,"#01-02 Viva Business Park, 750 Chai Chee Road, 469000",Restaurant,Halal • Korean
+https://www.hungrygowhere.com/singapore/g-day-bistro-clementi-west-coast/,G'day Bistro,$,"#01-129 Clementi Avenue 2 Shopping Centre, 352 Clementi Avenue 2, 120352",Cafe,Fusion • Western
+https://www.hungrygowhere.com/singapore/cafe_2000/,Cafe 2000,$$$,"GF M Hotel, 81 Anson Road, 079908",Restaurant,Asian • Western
+https://www.hungrygowhere.com/singapore/happenstance-cafe-balestier-whampoa-boon-keng/,Happenstance Cafe,$$,"35 Opal Crescent, 328425",Cafe,European • Western
+https://www.hungrygowhere.com/singapore/beach-road-kitchen-bugis/,Beach Road Kitchen,$$$$,"(Access via Nicoll Highway) JW Marriott Hotel Singapore South Beach, 30 Beach Road, 189763",Restaurant,International • Local • Seafood
+https://www.hungrygowhere.com/singapore/redpan-suntec-city-hall/,Redpan,$$,"#02-03/04 Marina Square, 6 Raffles Boulevard, 039594",Restaurant,Asian • Fusion • Singaporean
+https://www.hungrygowhere.com/singapore/hai_tien_lo/,Hai Tien Lo,$$$$,"#03-00 Pan Pacific Hotel Singapore, 7 Raffles Boulevard, 039595",Restaurant,Asian • Cantonese • Chinese • Dim Sum
+https://www.hungrygowhere.com/singapore/don-quijote-spanish-restaurant-dempsey-tanglin/,Don Quijote (Dempsey),$$$$,"#01-02, 7 Dempsey Road, 249671",Bar or Pub,European • Mediterranean • Spanish • Western • Wine
+https://www.hungrygowhere.com/singapore/shabusai-orchard-river-valley/,Shabu Sai (Orchard Central),$$,"#08-09/10/11 Orchard Central, 181 Orchard Road, 238896",Restaurant,Asian • Fusion • Japanese
+https://www.hungrygowhere.com/singapore/tcc-the-connoisseur-concerto-bugis/,TCC - The Connoisseur Concerto (Bugis Junction - Main Boutique),$,"#01-92/93/94/95/96 Intercontinental Singapore, 80 Middle Road, 188966",Cafe,American • Desserts • Western
+https://www.hungrygowhere.com/singapore/Mikuni/,Mikuni,$$$$,"Level 3 Fairmont Singapore, 80 Bras Basah Road, 189560",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/xiangtianxia-hotpot/,Spice World Hot Pot,$$$,"#01-06/07, 3B River Valley Road, 179021",Restaurant,Chinese • Steamboat
+https://www.hungrygowhere.com/singapore/3-crab-delicacy-seafood-restaurant-sengkang-hougang-buangkok-/,3 Crab Delicacy Seafood Restaurant (Upper Serangoon),$$,"21 Teck Chye Terrace, 545726",Restaurant,Chinese • Seafood • Singaporean • Teochew
+https://www.hungrygowhere.com/singapore/the-ramen-stall-bugis-beach-road/,The Ramen Stall,$,"Kampong Glam Conservation Area, 787 North Bridge Road, 198755",Restaurant,Asian • Halal • Japanese
+https://www.hungrygowhere.com/singapore/mezza9/,mezza9,$$$$,"Mezzanine level Grand Hyatt, 10 Scotts Road, 228211",Restaurant,International
+https://www.hungrygowhere.com/singapore/cafe_2000/,Cafe 2000,$$$,"GF M Hotel, 81 Anson Road, 079908",Restaurant,Asian • Western
+https://www.hungrygowhere.com/singapore/ichida-japanese-dining/,Ichida Japanese Dining,$$$$,"Level 1 & Level 2, 82 Club Street, 069450",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/capri_trattoria_pizzeria/,Capri Trattoria & Pizzeria,$$$,"3 Binjai Park, 589819",Bar or Pub,Beer • European • Italian • Western • Wine
+https://www.hungrygowhere.com/singapore/peach_blossoms/,Peach Blossoms,$$$,"#05-00 Marina Mandarin, 6 Raffles Boulevard, 039594",Restaurant,Asian • Cantonese • Chinese
+https://www.hungrygowhere.com/singapore/yummy-punjaby-bukit-merah-redhill-alexandra/,IJ's Yummy Punjaby,$,"#01-07 Alexandra Central, 321 Alexandra Road, 159971",Restaurant,Asian • Indian • North Indian
+https://www.hungrygowhere.com/singapore/beast-butterflies-orchard-river-valley/,Beast & Butterflies,$$$,"Robertson Quay M Social Singapore, 90 Robertson Quay, 238259",Restaurant,Fusion • Western
+https://www.hungrygowhere.com/singapore/morganfield-s-suntec-city-hall/,Morganfield's (Suntec City) - Home of mouthwatering sticky ribs and steaks,$$,"#01-645/646 Suntec City East Wing Suntec City Mall, 3 Temasek Boulevard, 038983",Restaurant,American • Western
+https://www.hungrygowhere.com/singapore/bb-guo-marina-south/,BB Hotpot,$$$,"#02-06 Marina Bay Financial Centre Tower 3, 12 Marina Boulevard, 018982",Restaurant,Chinese • Steamboat
+https://www.hungrygowhere.com/singapore/ikura-japanese/,IKURA Japanese (Fook Hai),,"#01-14 Fook Hai Building, 150 South Bridge Road, 058727",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/j65-tanglin-dempsey-orchard/,J65 @ Hotel Jen Tanglin,$$$,"Level 1, Lobby Hotel Jen Tanglin Singapore, 1A Cuscaden Road, 249716",Restaurant,Asian • International • Seafood • Western
+https://www.hungrygowhere.com/singapore/chug-chug/,Chug Chug,$$,"Tanjong Pagar Conservation Area, 114 Tanjong Pagar Road, 088529",Restaurant,Asian • Chinese • Fusion • Western
+https://www.hungrygowhere.com/singapore/bistecca-tuscan-steakhouse/,Bistecca Tuscan Steakhouse,$$$$,"26 Mohamed Sultan Road, 238970",Restaurant,European • Italian • Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/collins-suntec-city-hall/,COLLIN’S® (Marina Square),$,"#01-204/205 Marina Square, 6 Raffles Boulevard, 039594",Restaurant,Western
+https://www.hungrygowhere.com/singapore/bedrock_bar_grill/,Bedrock Bar & Grill,$$$$,"#01-05 Pan Pacific Serviced Suites, 96 Somerset Road, 238163",Bar or Pub,American • Asian • Australian • European • Japanese • Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/moi_lum_restaurant/,Moi Lum Restaurant,$$,"#01-01 Airview Building, 38 Maxwell Road, 069116",Restaurant,Asian • Cantonese • Chinese
+https://www.hungrygowhere.com/singapore/chili_s_grill_bar_resorts_world_sentosa/,Chili's American Grill & Bar (Resorts World Sentosa),$$,"#01-072/073/074 Resorts World Sentosa, 26 Sentosa Gateway, 098138",Restaurant,American • Drinks • Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/kanpai-izakaya-bar/,Kanpai Izakaya & Bar @ Holland Village,$,"40 Lorong Mambong, 277695",Bar or Pub,Beer • Drinks • Japanese • Wine
+https://www.hungrygowhere.com/singapore/ichida-japanese-dining/,Ichida Japanese Dining,$$$$,"Level 1 & Level 2, 82 Club Street, 069450",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/harry-s-raffles-place-boat-quay/,Harry's (Boat Quay),$,"Boat Quay Boat Quay Conservation Area, 28 Boat Quay, 049818",Bar or Pub,Beer • Cocktails • Drinks • Western
+https://www.hungrygowhere.com/singapore/anjappar_authentic_chettinaad_restaurant_syed_alwi_road/,Anjappar Authentic Chettinaad Restaurant (Syed Alwi Rd),$,"102 Syed Alwi Road, 207678",Restaurant,Asian • Indian • Indochinese • North Indian • South Indian
+https://www.hungrygowhere.com/singapore/hood_cafe_and_bar/,Hood Bar & Music,$$,"#05-07 Bugis+, 201 Victoria Street, 188067",Cafe,Drinks • Pizza • Western
+https://www.hungrygowhere.com/singapore/mitsuba-japanese-restaurant-chinatown/,Mitsuba Japanese Restaurant,$$$,"#03-88 The Central, 6 Eu Tong Sen Street, 059817",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/trattoria-da-mimmo-thomson-sin-ming-bishan/,Trattoria da Mimmo,$$$,"Clover Park, 3 Clover Way, 579078",Restaurant,Italian
+https://www.hungrygowhere.com/singapore/derwish-turkish-bugis-beach-road/,Derwish Turkish,$$,"-, 60 Bussorah Street, 199476",Restaurant,Mediterranean • Turkish
+https://www.hungrygowhere.com/singapore/yi-zhi-wei-bbq-steamboat-geylang-stadium-old-airport/,Yi Zhi Wei BBQ Steamboat,$$,"1 Lorong 13 Geylang, 388639",Restaurant,Chinese • Steamboat
+https://www.hungrygowhere.com/singapore/prego/,Prego,$$$,"Level 1 Fairmont Singapore, 80 Bras Basah Road, 189560",Confectionery or Bakery,Desserts • European • Italian • Western
+https://www.hungrygowhere.com/singapore/sea-tripod-seafood-paradise-cantonment-tanjong-pagar-chinatown/,Sea Tripod - Cook Fresh Seafood Yourself at Dorsett Residences,$$,"#01-02 Dorsett Residences, 331 New Bridge Road, 088764",Restaurant,Seafood • Steamboat
+https://www.hungrygowhere.com/singapore/shang-pin-hot-pot-suntec-city-hall/,Shang Pin Hot Pot (Marina Square),$$,"#02-102/102A Marina Square, 6 Raffles Boulevard, 039594",Restaurant,Chinese • Steamboat
+https://www.hungrygowhere.com/singapore/the_tippling_club/,Tippling Club,$$$$,"38 Tanjong Pagar Road, 088462",Bar or Pub,Asian • European • International • Italian • Western • Wine
+https://www.hungrygowhere.com/singapore/hotpot-heroes-tanjong-rhu-katong-amber-road/,Hotpot Heroes,$$$,"306 Tanjong Katong Road, 437089",Restaurant,Chinese • Steamboat
+https://www.hungrygowhere.com/singapore/artemis-grill-raffles-place-boat-quay/,Artemis Grill,$$$$,"#40-01 Capitagreen, 138 Market Street, 048946",Restaurant,Drinks • Mediterranean • Steak and Grills
+https://www.hungrygowhere.com/singapore/depizza/,DePizza,$,"35A Boat Quay, 049824",Restaurant,Fusion • Pizza • Western
+https://www.hungrygowhere.com/singapore/daawat_tandoori_restaurant_upper_thomson/,Daawat Tandoori Restaurant (Upper Thomson Rd),$,"Yew Lian Park, 207 Upper Thomson Road, 574346",Restaurant,Asian • Indian • North Indian • South Indian
+https://www.hungrygowhere.com/singapore/yunnan-garden-restaurant-dover-buona-vista-ayer-rajah/,Yunnan Garden @ Fusionopolis,$$,"#02-02 Galaxis, 1 Fusionopolis Place, 138522",Restaurant,Asian • Chinese • Seafood
+https://www.hungrygowhere.com/singapore/indochine-restaurant-bugis/,IndoChine Restaurant @CHIJMES (Chijmes),,"#01-21/22, 30 Victoria Street, 187996",Restaurant,Cambodian • Indochinese • Vietnamese
+https://www.hungrygowhere.com/singapore/golden_peony/,Golden Peony,$$$$,"3F Conrad Centennial Singapore, 2 Temasek Boulevard, 038982",Restaurant,Asian • Cantonese • Chinese • Dim Sum
+https://www.hungrygowhere.com/singapore/anjappar_authentic_chettinaad_restaurant_syed_alwi_road/,Anjappar Authentic Chettinaad Restaurant (Syed Alwi Rd),$,"102 Syed Alwi Road, 207678",Restaurant,Asian • Indian • Indochinese • North Indian • South Indian
+https://www.hungrygowhere.com/singapore/morganfield-s-telok-blangah-harbourfront/,Morganfield's (Vivocity) - Home of mouthwatering ribs and steaks,$$,"#01-51A Vivocity, 1 Harbourfront Walk, 098585",Restaurant,American • Western
+https://www.hungrygowhere.com/singapore/the_lighthouse_fullerton_hotel/,The Lighthouse,$$$$,"Level 08 The Fullerton Hotel Singapore, 1 Fullerton Square, 049178",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/harry-s-ghim-moh-holland/,Harry's (Holland Village),$$,"Holland Village, 22 Lorong Mambong, 277681",Bar or Pub,Beer • Cocktails • Drinks • Western
+https://www.hungrygowhere.com/singapore/Punjab_Grill__Marina_Bay_Sands_/,Punjab Grill,$$$$,"#B1-01A The Shoppes at Marina Bay Sands, 2 Bayfront Avenue, 018972",Restaurant,Asian • Indian • North Indian
+https://www.hungrygowhere.com/singapore/j_bar/,J Bar,,"9F M Hotel, 81 Anson Road, 079908",Bar or Pub,Beer • Cocktails • Drinks • Western • Wine
+https://www.hungrygowhere.com/singapore/kowloon-bay-hk-cafe-bukit-panjang/,Kowloon Bay HK Cafe,$,"#01-07 Hilion Mall, 17 Petir Road, 678278",Cafe,Chinese • Fusion • Western
+https://www.hungrygowhere.com/singapore/tonkichi_shaw_house/,Tonkichi (Isetan Scotts),$$,"4F Shaw House, 350 Orchard Road, 238868",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/sbcd-korean-tofu-house-suntec-city-hall/,SBCD Korean Tofu House (Millenia Walk),$$,"#01-114 Millenia Walk, 9 Raffles Boulevard, 039596",Restaurant,Korean
+https://www.hungrygowhere.com/singapore/ristorante_da_valentino_/,Ristorante Da Valentino,$$$$,"#01-19 The Grandstand, 200 Turf Club Road, 287994",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/the_ramen_house/,The Ramen House - Late night Japanese comfort food,$$,"6 Short Street, 188213",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/wang-dae-bak-korean-bbq-restaurant-raffles-place-boat-quay/,"Wang Dae Bak Korean BBQ Restaurant (China Square Central) - Menu, Reviews, Reservation",$$,"#01-64 China Square Central, 22 Cross Street, 048421",Restaurant,Asian • Korean
+https://www.hungrygowhere.com/singapore/Praelum_Wine_Bistro/,Praelum Wine Bistro,$$$,"4 Duxton Hill, 089590",Bar or Pub,Asian • Beer • European • French • Indochinese • Western • Wine
+https://www.hungrygowhere.com/singapore/yan_ting/,Yan Ting,$$$$,"Level 1U The St. Regis Singapore, 29 Tanglin Road, 247911",Restaurant,Asian • Cantonese • Chinese • Dim Sum
+https://www.hungrygowhere.com/singapore/brasserie_les_saveurs/,Brasserie Les Saveurs,$$$$,"The St. Regis Singapore, 29 Tanglin Road, 247911",Restaurant,European • French • Western
+https://www.hungrygowhere.com/singapore/don-t-tell-mama-cantonment-tanjong-pagar-chinatown/,Don't Tell Mama,$$,"Tanjong Pagar Conservation Area, 52 Tanjong Pagar Road, 088473",Bar or Pub,Cocktails • Drinks • Fusion • Korean
+https://www.hungrygowhere.com/singapore/ashino-bugis/,Ashino,$$$$,"#01-23 Chijmes, 30 Victoria Street, 187996",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/racines-anson-tanjong-pagar/,RACINES,$$$$,"Level 5 Sofitel Singapore City Centre, 9 Wallich Street, 078885",Restaurant,Chinese • Drinks • French • Wine
+https://www.hungrygowhere.com/singapore/whampoa_food_street_keng_fish_head_steamboat_eating_house_rangoon_road/,Whampoa Keng Fish Head Steam Boat Restaurant (Rangoon Rd),$$,"116/118 Rangoon Road, 218396",Restaurant,Asian • Chinese • Local • Singaporean • Steamboat
+https://www.hungrygowhere.com/singapore/nanta-bbq-thomson-novena-newton/,Nanta BBQ,$$,"#01-175/176/177 Goldhill Shopping Centre, 175 Thomson Road, 307624",Restaurant,Asian • Korean
+https://www.hungrygowhere.com/singapore/spagtacular-chinatown/,Spagtacular,$$,"54 South Bridge Road, 058685",Restaurant,Western
+https://www.hungrygowhere.com/singapore/anjappar-authentic-chettinaad-restaurant-changi-bedok-north/,Anjappar Authentic Chettinaad Restaurant (Changi Business Park),,"#02-07 The Signature, 51 Changi Business Park Central 2, 486066",Restaurant,Asian • Indian • South Indian • Vegetarian
+https://www.hungrygowhere.com/singapore/yamato-izakaya-eunos-ubi/,Yamato Izakaya,$$,"#01-92 Oxley Bizhub, 65 Ubi Road 1, 408729",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/harry_s_marina_bay_link_mall/,Harry's (Marina Bay Link Mall),$,"#01-03 Marina Bay Link Mall, 8A Marina Boulevard, 018984",Bar or Pub,Beer • Cocktails • Drinks • Western
+https://www.hungrygowhere.com/singapore/blu-kouzina-tanglin-dempsey-orchard/,Blu Kouzina,$$$$,"#01-21 Dempsey Hill, 10 Dempsey Road, 247700",Restaurant,European • Greek • Mediterranean • Western
+https://www.hungrygowhere.com/singapore/garibaldi_italian_restaurant_bar/,Garibaldi Italian Restaurant & Bar,$$$$,"#01-02, 36 Purvis Street, 188613",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/xun-wei-hotpot-bugis/,Xun Wei Hotpot,$$,"28 Liang Seah Street, 189049",Restaurant,Asian • Chinese • Sichuan • Steamboat
+https://www.hungrygowhere.com/singapore/en-sakaba-tanjong-pagar-raffles-place/,En Sakaba (Capital Tower),$$$$,"#01-10 Capital Tower, 168 Robinson Road, 068912",Bar or Pub,Japanese
+https://www.hungrygowhere.com/singapore/windowsill-pies-thomson-sin-ming-bishan/,Windowsill Pies (Soo Chow Walk),$,"95 Soo Chow Walk, 575382",Cafe,Desserts
+https://www.hungrygowhere.com/singapore/harry-s-bugis-/,Harry's (South Beach),$$,"26 Beach Road, 189768",Bar or Pub,Cocktails • Drinks • Modern European • Western
+https://www.hungrygowhere.com/singapore/ishinomaki-grill-sake-orchard-river-valley/,Ishinomaki Grill & Sake - Freshly grilled Japanese cuisine with sake,$$$$,"#B1-02/02A/03 Palais Renaissance, 390 Orchard Road, 238871",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/the-ramen-stall-bugis-beach-road/,The Ramen Stall - Halal Japanese eatery with fusion Japanese dishes,$,"Kampong Glam Conservation Area, 787 North Bridge Road, 198755",Restaurant,Asian • Halal • Japanese
+https://www.hungrygowhere.com/singapore/the-boiler-seafood-bar-beer-suntec-city-hall/,The Boiler Seafood Bar & Beer (Esplanade),$$$,"#01-13A Esplanade Mall, 8 Raffles Avenue, 039802",Bar or Pub,American • Cajun/Creole • Seafood • Western
+https://www.hungrygowhere.com/singapore/jaan/,JAAN,$$$$,"Level 70 Swissotel The Stamford, 2 Stamford Road, 178882",Restaurant,European • French • Western
+https://www.hungrygowhere.com/singapore/aromas-of-india-little-india/,Aromas of India,$$,"60 Race Course Road, 218567",Restaurant,Asian • Indian • North Indian • South Indian
+https://www.hungrygowhere.com/singapore/anjappar_authentic_chettinaad_restaurant_race_course_road/,Anjappar Authentic Chettinaad Restaurant (Race Course Road),$,"76-78 Race Course Road, 218575",Restaurant,Asian • Indian • South Indian • Vegetarian
+https://www.hungrygowhere.com/singapore/sawadee-thai-cuisine-bugis/,Sawadee Thai Cuisine,$$,"#01-01, 9 Tan Quee Lan Street, 188098",Restaurant,Asian • Indochinese • Thai
+https://www.hungrygowhere.com/singapore/urbana-rooftop-bar-balestier-whampoa-boon-keng/,Urbana Rooftop Bar,$$$,"Level 33 Courtyard by Marriott Singapore Novena, 99 Irrawaddy Road, 329568",Restaurant,Drinks • International
+https://www.hungrygowhere.com/singapore/chock-full-of-beans-changi-village-loyang/,Chock Full of Beans,$,"#01-2090 Hdb-changi Village Rov, 4 Changi Village Road, 500004",Cafe,Beer • Western
+https://www.hungrygowhere.com/singapore/dolce-vita-suntec-city-hall/,Dolce Vita,$$$$,"5F Mandarin Oriental, Singapore, 5 Raffles Avenue, 039797",Restaurant,Italian
+https://www.hungrygowhere.com/singapore/kowloon-bay-hk-cafe-bukit-panjang/,Kowloon Bay HK Cafe,$,"#01-07 Hilion Mall, 17 Petir Road, 678278",Cafe,Chinese • Fusion • Western
+https://www.hungrygowhere.com/singapore/morganfields-dover-buona-vista-ayer-rajah/,"Morganfield's (The Star Vista) - Price, Promotions, Reviews",$$,"#02-23 The Star Vista, 1 Vista Exchange Green, 138617",Restaurant,American • Western
+https://www.hungrygowhere.com/singapore/lobby_lounge_conrad/,Lobby Lounge @ Conrad,$$,"Lobby Level Conrad Centennial Singapore, 2 Temasek Boulevard, 038982",Bar or Pub,Beer • Fusion • International • Seafood • Western • Wine
+https://www.hungrygowhere.com/singapore/the-cliff/,the Cliff,,"Sofitel Singapore Sentosa, 2 Bukit Manis Road, 099891",Bar or Pub,Italian • Mediterranean • Seafood • Western
+https://www.hungrygowhere.com/singapore/westlake_queens_rd/,Westlake (Queen's Road),$$,"#02-139, 4 Queen's Road, 260004",Restaurant,Asian • Chinese • Hokkien • Local • Singaporean
+https://www.hungrygowhere.com/singapore/the-carvery-bukit-merah-redhill-alexandra/,The Carvery,$$$,"Level 7 Park Hotel Alexandra, 323 Alexandra Road, 159972",Restaurant,Drinks • European • Modern European • Western
+https://www.hungrygowhere.com/singapore/the_ramen_house/,The Ramen House,$$,"6 Short Street, 188213",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/the-landmark-bugis-05-01/,The Landmark,$$,"#05-01 The Golden Landmark, 390 Victoria Street, 188061",Restaurant,Asian • Halal • Indian • Mediterranean • Western
+https://www.hungrygowhere.com/singapore/pepper-jade-thai-vegetarian-cuisine-bugis/,Pepper Jade Thai Vegetarian Cuisine,$$,"#01-18/19/20 Sunshine Plaza, 91 Bencoolen Street, 189652",Restaurant,Thai • Vegetarian
+https://www.hungrygowhere.com/singapore/Si_Wei_Mao_Cai_Authentic_Sichuan_Restaurant_______/,Si Wei Mao Cai,$$,"33 Mosque Street, 059511",Cafe,Asian • Chinese • Sichuan
+https://www.hungrygowhere.com/singapore/ashino-bugis/,Ashino,$$$$,"#01-23 Chijmes, 30 Victoria Street, 187996",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/the-dim-sum-place-bugis-beach-road/,"The Dim Sum Place(North Bridge Road) - Fuss-free, unpretentious Halal dim sum",$,"791 North Bridge Road, 198759",Restaurant,Asian • Cantonese • Dim Sum • Halal
+https://www.hungrygowhere.com/singapore/dallas_restaurant_bar/,Dallas Restaurant & Bar (Boat Quay),$$,"Boat Quay, 31 Boat Quay, 049820",Bar or Pub,American • Western • Wine
+https://www.hungrygowhere.com/singapore/amuse-tiong-bahru-outram/,A*MUSE ZiChar + Bistro Concept @ Dorsett,,"#01-55 Dorsett Singapore, 333 New Bridge Road, 088765",Restaurant,Desserts • French • Modern European • Seafood
+https://www.hungrygowhere.com/singapore/anjappar-authentic-chettinaad-restaurant/,Anjappar Authentic Chettinaad Restaurant (Westgate),$$,"#04-08 Westgate Shopping Mall, 3 Gateway Drive, 608532",Restaurant,Asian • Indian • Indochinese • North Indian • South Indian
+https://www.hungrygowhere.com/singapore/indochili/,IndoChili (Science Park),$$,"#01-09, 2 Science Park Drive, 118222",Restaurant,Asian • Halal • Indonesian • Malay • Malay / Indonesian
+https://www.hungrygowhere.com/singapore/La_Pizzaiola__Jalan_Riang_/,La Pizzaiola (Jalan Riang),$$,"15/3 Jalan Riang, 358987",Bar or Pub,Beer • European • Italian • Pizza • Western • Wine
+https://www.hungrygowhere.com/singapore/media-bar-bugis-/,Media Bar,$$,"(Access via Nicoll Highway) JW Marriott Hotel Singapore South Beach, 30 Beach Road, 189763",Bar or Pub,Beer • Cocktails • Drinks • Wine
+https://www.hungrygowhere.com/singapore/kwee-zeen-sofitel-sentosa/,Kwee Zeen,$$$$,"Sofitel Singapore Sentosa, 2 Bukit Manis Road, 099891",Restaurant,Asian • European • French • Western
+https://www.hungrygowhere.com/singapore/the_square_at_furama/,The Square @ Furama (Furama),$$,"Furama Riverfront Singapore, 405 Havelock Road, 169633",Restaurant,International
+https://www.hungrygowhere.com/singapore/g7_sin_ma_live_seafood_restaurant_geylang/,G7 Sinma Live Seafood Restaurant (Geylang),$$,"#01-01/02, 161, 163 Geylang Road Lorong 3, 389239",Restaurant,Chinese • Local • Seafood • Singaporean • Zi Char
+https://www.hungrygowhere.com/singapore/aquamarine/,"AquaMarine - Buffet Price, Promotions and Menu",$$$,"Level 4 Marina Mandarin Hotel, 6 Raffles Boulevard, 039594",Restaurant,Halal • International
+https://www.hungrygowhere.com/singapore/tien_court/,Tien Court,$$$,"2F Copthorne King's, 403 Havelock Road, 169632",Restaurant,Asian • Cantonese • Chinese • Sichuan
+https://www.hungrygowhere.com/singapore/issho/,issho,$$,"#02-02 SAFRA Punggol Singapore, 10 Sentul Crescent, 828654",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/wooloomooloo-steakhouse-city-hall-high-street/,Wooloomooloo Steakhouse,$$$$,"Level 3 Swissotel The Stamford, 2 Stamford Road, 178882",Restaurant,Australian • Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/anjappar-authentic-chettinaad-restaurant-changi-bedok-north/,Anjappar Authentic Chettinaad Restaurant (Changi Business Park),,"#02-07 The Signature, 51 Changi Business Park Central 2, 486066",Restaurant,Asian • Indian • South Indian • Vegetarian
+https://www.hungrygowhere.com/singapore/meat-smith-tanjong-pagar-raffles-place/,Meat Smith (Telok Ayer),$$$,"Telok Ayer Conservation Area, 167-169 Telok Ayer Street, 068620",Restaurant,American • Barbecue • Western
+https://www.hungrygowhere.com/singapore/sbcd-korean-tofu-house-anson-tanjong-pagar/,SBCD Korean Tofu House (Tanjong Pagar Centre),$$,"#B1-01/02 Tanjong Pagar Centre, 7 Wallich Street, 078884",Restaurant,Korean
+https://www.hungrygowhere.com/singapore/the_manhattan_fish_market_plaza_singapura/,The Manhattan Fish Market (Plaza Singapura),$$,"#06-07 Plaza Singapura, 68 Orchard Road, 238839",Restaurant,American • Halal • Seafood • Western
+https://www.hungrygowhere.com/singapore/imperial_herbal_restaurant_tcafe/,Imperial Restaurant (Imperial Herbal),$$$,"Level 2 Four Points by Sheraton Singapore, Riverview, 382 Havelock Road, 169629",Cafe,Asian • Beijing • Chinese
+https://www.hungrygowhere.com/singapore/anjappar_authentic_chettinaad_restaurant_race_course_road/,Anjappar Authentic Chettinaad Restaurant (Race Course Road),$,"76-78 Race Course Road, 218575",Restaurant,Asian • Indian • South Indian • Vegetarian
+https://www.hungrygowhere.com/singapore/kueh-ho-jiak/,Kueh Ho Jiak (East Village),$,"#01-62 East Village, 430 Upper Changi Road, 487048",Kiosk or Stall,Chinese
+https://www.hungrygowhere.com/singapore/Zaffron_Kitchen/,Zaffron Kitchen (East Coast Road),$$,"135/137 East Coast Road, 428822",Restaurant,Asian • Indian • Local • North Indian • Singaporean • South Indian
+https://www.hungrygowhere.com/singapore/indobox-orchard-river-valley/,IndoBox (ION Orchard),$$,"#B3-24 ION Orchard, 2 Orchard Turn, 238801",Restaurant,Halal • Indonesian
+https://www.hungrygowhere.com/singapore/harry_s_steakhouse/,Harry's (Esplanade),$,"#01-05/06/07 Esplanade Mall, 8 Raffles Avenue, 039802",Bar or Pub,Beer • Cocktails • Drinks • Western
+https://www.hungrygowhere.com/singapore/el-mero-mero-bugis/,El Mero Mero,$$$$,"#01-20 Chijmes, 30 Victoria Street, 187996",Restaurant,Latin American • Mexican
+https://www.hungrygowhere.com/singapore/latest-recipe-telok-blangah-harbourfront/,Latest Recipe,$$$,"Imbiah Station Le Méridien Singapore, Sentosa, 23 Beach View, 098679",Restaurant,Western
+https://www.hungrygowhere.com/singapore/xiangcao-yunnan-original-ecology-hotpot-bugis/,Yunnan Original Ecology Hotpot,$$,"Beach Road Conservation Area, 26 Liang Seah Street, 189047",Restaurant,Chinese • Steamboat
+https://www.hungrygowhere.com/singapore/nanjing-impressions-orchard-river-valley/,Nanjing Impressions,$$,"#04-46-51 Plaza Singapura, 68 Orchard Road, 238839",Restaurant,Asian • Chinese
+https://www.hungrygowhere.com/singapore/five-marbles-craft-beer-restaurant-bugis/,Five Marbles Craft Beer Restaurant,$$$,"The Courtyard, Rendezvous Hotel Singapore, 9 Bras Basah Road, 189559",Restaurant,Beer • Drinks • Western
+https://www.hungrygowhere.com/singapore/chili_s_grill_bar_resorts_world_sentosa/,Chili's American Grill & Bar (Resorts World Sentosa),$$,"#01-072/073/074 Resorts World Sentosa, 26 Sentosa Gateway, 098138",Restaurant,American • Drinks • Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/hotpot-heroes-tanjong-rhu-katong-amber-road/,Hotpot Heroes,$$$,"306 Tanjong Katong Road, 437089",Restaurant,Chinese • Steamboat
+https://www.hungrygowhere.com/singapore/whampoa_food_street_keng_fish_head_steamboat_eating_house_balestier/,Whampoa Keng Fish Head Steam Boat Restaurant (Balestier Rd),$$,"556 Balestier Road, 329872",Restaurant,Asian • Chinese • Local • Singaporean • Steamboat
+https://www.hungrygowhere.com/singapore/greenwood-fish-market-bukit-timah/,Greenwood Fish Market (Hillcrest Park),$$$,"Hillcrest Park, 34 Greenwood Avenue, 289236",Restaurant,European • Seafood • Western
+https://www.hungrygowhere.com/singapore/freshly_baked_by_le_bijoux/,Freshly Baked by Le Bijoux (Killiney Road),$,"57 Killiney Road, 239520",Cafe,Desserts • Vegetarian • Western
+https://www.hungrygowhere.com/singapore/Etna_Italian_Restaurant___Pizzeria__Duxton_/,Etna Italian Restaurant (Duxton Road),$$$,"49/50 Duxton Road, 089513",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/grissini-tiong-bahru-outram/,Grissini,$$$$,"Level 1 Grand Copthorne Waterfront Hotel Singapore, 392 Havelock Road, 169663",Restaurant,Italian
+https://www.hungrygowhere.com/singapore/magurodonya-miuramisakikou-sushi-dining-suntec-city-hall/,MaguroDonya Miuramisakikou Sushi & Dining,$$$,"#03-314 Suntec City North Wing Suntec City Mall, 3 Temasek Boulevard, 038983",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/balithai-restaurant-orchard-river-valley/,Bali Thai (Ngee Ann City),$,"#05-29 Ngee Ann City, 391A Orchard Road, 238873",Restaurant,Indonesian • Thai
+https://www.hungrygowhere.com/singapore/curry-gardenn-orchard-bukit-timah-/,Curry Gardenn (Dine at Stevens),$$,"- Dine at Stevens, 30 Stevens Road, 257840",Bar or Pub,Asian • Indian
+https://www.hungrygowhere.com/singapore/royal-palm-orchid-country-club-yishun/,Royal Palm @ Orchid Country Club,$$,"#01-21, 1 Orchid Club Road, 769162",Restaurant,Asian • Halal
+https://www.hungrygowhere.com/singapore/wan-he-lou-chinese-restaurant-jalan-besar-lavender/,Wan He Lou Chinese Restaurant,$$,"65 Maude Road, 208347",Restaurant,Asian • Chinese • Seafood
+https://www.hungrygowhere.com/singapore/Bali_Thai__NEX_Mall_/,Bali Thai Restaurant (Nex),$$,"#02-13 Nex, 23 Serangoon Central, 556083",Restaurant,Indonesian • Thai
+https://www.hungrygowhere.com/singapore/10_Scotts/,10 Scotts,$$$,"Ground Floor Grand Hyatt Hotel, 10 Scotts Road, 228211",Bar or Pub,European • International • Western • Wine
+https://www.hungrygowhere.com/singapore/gorogoro-steamboat-korean-buffet-orchard-river-valley/,GoroGoro Steamboat & Korean Buffet,$$,"#04-01 Orchard Gateway @ Emerald, 218 Orchard Road, 238851",Restaurant,Korean • Singaporean
+https://www.hungrygowhere.com/singapore/walaku-joo-chiat-katong-east-coast/,Walaku (Joo Chiat),,"#01-01, 102 Joo Chiat Road, 427396",Restaurant,Malay
+https://www.hungrygowhere.com/singapore/harry-s-hougang-tai-seng-upper-serangoon/,Harry's (18 Tai Seng),$,"01-K4/23-25 18 Tai Seng, 18 Tai Seng Street, 539775",Bar or Pub,Beer • Cocktails • Drinks • Western
+https://www.hungrygowhere.com/singapore/amaravati-little-india/,Amaravati,,"Little India Conservation Area, 41 Kerbau Road, 219170",Restaurant,Asian • Indian
+https://www.hungrygowhere.com/singapore/stuttgart-blackforest-boutique-s-cafe-bugis/,Stuttgart Blackforest Boutique S-Cafe,$$,"#01-01 Rendezvous Hotel Singapore, 9 Bras Basah Road, 189559",Bar or Pub,Beer • European • German • Wine
+https://www.hungrygowhere.com/singapore/sakunthala_s_food_palace_race_course_road/,Sakunthala's Food Palace (Race Course Road),$$,"66 Race Course Road, 218570",Restaurant,Asian • Chinese • Halal • Indian • North Indian • South Indian
+https://www.hungrygowhere.com/singapore/xperience-restaurant-bar-tanjong-pagar--raffles-place/,Xperience Restaurant,$$$$,"SO Sofitel Singapore, 35 Robinson Road, 068876",Bar or Pub,International
+https://www.hungrygowhere.com/singapore/etna_restaurant_pizzeria_east_coast/,Etna Italian Restaurant (East Coast),$$$,"110 Upper East Coast Road, 455298",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/salt-grill-sky-bar-orchard-river-valley/,Salt Grill & Sky Bar,$$$$,"#55-01 & 56-01 Ion Orchard, 2 Orchard Turn, 238801",Restaurant,Australian • Western
+https://www.hungrygowhere.com/singapore/oasis/,Oasis Poolside Restaurant,$$$$,"Level 5 (Terrace Wing) Grand Hyatt Singapore, 10 Scotts Road, 228211",Restaurant,International
+https://www.hungrygowhere.com/singapore/ito-kacho/,Ito Kacho Yakiniku,$$$$,"#04-08/09 Mandarin Gallery, 333A Orchard Road, 238897",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/nox-bugis-beach-road/,NOX - Dine in the Dark,$$$$,"269 Beach Road, 199546",Restaurant,European • Modern European • Western
+https://www.hungrygowhere.com/singapore/ah-hoi-s-kitchen-tanglin-dempsey-orchard/,Ah Hoi's Kitchen,$$,"4F Hotel Jen Singapore, 1A Cuscaden Road, 249716",Restaurant,Chinese • Local • Nonya / Peranakan
+https://www.hungrygowhere.com/singapore/the_courtyard/,The Courtyard,$$$,"Level 1 The Fullerton Hotel Singapore, 1 Fullerton Square, 049178",Restaurant,Asian • Desserts • Indian • International • Japanese • South Indian
+https://www.hungrygowhere.com/singapore/harry-s-bugis/,Harry's (Chijmes),$,"#01-14 Chijmes, 30 Victoria Street, 187996",Bar or Pub,Beer • Cocktails • Drinks • Western
+https://www.hungrygowhere.com/singapore/der-biergarten-bugis/,Der Biergarten,$$$,"#01-01 & #02-01 Prinsep Place, 48 Prinsep Street, 188677",Restaurant,European • German • Western
+https://www.hungrygowhere.com/singapore/katong-kitchen-village-hotel-katong-marine-parade/,Katong Kitchen @ Village Hotel Katong,$$$,"Level 4 Village Hotel Katong, 25 Marine Parade, 449536",Restaurant,Asian • Halal • International • Nonya / Peranakan
+https://www.hungrygowhere.com/singapore/en-sakaba-orchard-river-valley/,En Sakaba (Orchard Central),$$,"#01-16 Orchard Central, 181 Orchard Road, 238896",Bar or Pub,Japanese
+https://www.hungrygowhere.com/singapore/the-connoisseur-concerto-bugis-0197/,TCC - The Connoisseur Concerto (Bugis Junction - Atrium),$,"#01-97 Intercontinental Singapore, 80 Middle Road, 188966",Cafe,American • Desserts • Western
+https://www.hungrygowhere.com/singapore/royale-bugis/,Royale (formerly Sauces),$$,"Level 3 Mercure Singapore Bugis, 122 Middle Road, 188973",Restaurant,International
+https://www.hungrygowhere.com/singapore/harry-s-scotts-road-newton/,Harry's (Cuppage),$$,"Cuppage Terrace, 17/19 Cuppage Road, 229450",Bar or Pub,Beer • Cocktails • Drinks • Western
+https://www.hungrygowhere.com/singapore/lounge-jen-orchard-river-valley/,Lounge@Jen,$$,"Level 10 Hotel Jen Orchardgateway Singapore, 277 Orchard Road, 238858",Cafe,Cocktails • Drinks • European • Italian • Western
+https://www.hungrygowhere.com/singapore/the-grumpy-bear-upper-bukit-timah/,The Grumpy Bear (Bukit Timah Plaza),$,"#02-01B Bukit Timah Plaza, 1 Jalan Anak Bukit, 588996",Cafe,Desserts • Snacks • Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/dian_xiao_er_vivocity/,Dian Xiao Er (Vivo City),$$,"#02-138/139 VivoCity, 1 Harbourfront Walk, 098585",Restaurant,Asian • Chinese
+https://www.hungrygowhere.com/singapore/tonkichi_ngee_ann_city/,Tonkichi (Ngee Ann City),$$,"#04-24 Ngee Ann City, 391 Orchard Road, 238872",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/bochinche-orchard-river-valley/,Bochinche,$$$$,"#01-02 Telok Ayer Conservation Area, 115 Amoy Street, 069935",Restaurant,Argentinean • Cocktails • Western • Wine
+https://www.hungrygowhere.com/singapore/smokey-s-bbq-joo-chiat-katong-east-coast/,Smokey's BBQ (Joo Chiat),$$,"73 Joo Chiat Place, 427790",Restaurant,American
+https://www.hungrygowhere.com/singapore/the-stamford-brasserie/,The Stamford Brasserie,,"Level 1 Swissotel The Stamford, Singapore, 2 Stamford Road, 178882",Bar or Pub,Western
+https://www.hungrygowhere.com/singapore/g-day-bistro-clementi-west-coast/,G'day Bistro,$,"#01-129 Clementi Avenue 2 Shopping Centre, 352 Clementi Avenue 2, 120352",Cafe,Fusion • Western
+https://www.hungrygowhere.com/singapore/knots-cafe-and-living-eunos-ubi/,Knots Cafe and Living,$$,"#01-07 Orion @ Paya Lebar, 160 Paya Lebar Road, 409022",Cafe,Western
+https://www.hungrygowhere.com/singapore/alati-tanjong-pagar-raffles-place/,ALATI,$$$$,"Telok Ayer Conservation Area, 73 Amoy Street, 069892",Restaurant,European • Greek • Seafood • Western
+https://www.hungrygowhere.com/singapore/caruso-bukit-timah/,Caruso,$$$$,"#01-01, 791 Bukit Timah Road, 269764",Restaurant,European • Italian • Pizza • Western
+https://www.hungrygowhere.com/singapore/kyoaji-dining-orchard-river-valley-04-17-18/,Kyoaji Dining,$$$,"#04-17/18 The Centrepoint, 176 Orchard Road, 238843",Restaurant,Drinks • Japanese • Seafood
+https://www.hungrygowhere.com/singapore/spicy-thai-cafe-geylang-stadium-old-airport/,Spicy Thai Cafe,$$,"#01-35, 115 Aljunied Avenue 2, 380115",Cafe,Asian • Steamboat • Thai
+https://www.hungrygowhere.com/singapore/wangdaebak-pocha-tanjong-pagar-raffles-place/,Wang Dae Bak Pocha,$,"Telok Ayer Conservation Area, 93 Amoy Street, 069913",Restaurant,Asian • Korean
+https://www.hungrygowhere.com/singapore/jacob_s_cafe/,Jacob's Cafe,$$,"#01-2049, 5 Changi Village Road, 500005",Cafe,Western
+https://www.hungrygowhere.com/singapore/basilico_the_regent_singapore/,Basilico,$$$$,"Level 2 The Regent Singapore, 1 Cuscaden Road, 249715",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/dian_xiao_er_lot_one/,Dian Xiao Er (Lot One),$,"#B1-32/33 Lot 1 Shoppers' Centre, 21 Choa Chu Kang Avenue 4, 689812",Restaurant,Asian • Chinese
+https://www.hungrygowhere.com/singapore/kuriya_dining/,Kuriya Dining (Great World City),$$$$,"#01-28 Great World City, 1 Kim Seng Promenade, 237994",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/rakuzen_raku_zen/,Rakuzen (Millenia Walk),$$,"#01-16/19 Time2 Millenia Walk, 9 Raffles Boulevard, 039596",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/ice_edge_cafe/,Ice Edge Cafe (Kovan),$,"#01-10 Simon Plaza, 2 Kovan Road, 548008",Cafe,Western
+https://www.hungrygowhere.com/singapore/jewel-cafe-bar-little-india/,Jewel Cafe + Bar,$$,"129 Rangoon Road, 218407",Bar or Pub,Asian • English • European • French • Japanese • Western
+https://www.hungrygowhere.com/singapore/Casserole_dine_on_3/,Casserole,$$,"#03-01 Siloso Beach Dine On 3 Shangri-La's Rasa Sentosa Resort & Spa, 101 Siloso Road, 098970",Restaurant,Asian • Fusion • Indian • Mediterranean • Moroccan • North Indian • South Indian • Western
+https://www.hungrygowhere.com/singapore/Beirut_Grill/,Beirut Grill,$$,"72 Bussorah Street, 199485",Bar or Pub,Lebanese • Middle Eastern • Wine
+https://www.hungrygowhere.com/singapore/so-pho-jurong-easst/,So Pho (Jem),$,"#B1-08 Jem, 50 Jurong Gateway Road, 608549",Restaurant,Vietnamese
+https://www.hungrygowhere.com/singapore/the_song_of_india/,The Song Of India,$$$$,"33 Scotts Road, 228226",Restaurant,Asian • Indian
+https://www.hungrygowhere.com/singapore/jew-kit-scotts-road-newton/,Jew Kit (Far East Plaza),$,"#02-10/11/12/13 Far East Plaza, 14 Scotts Road, 228213",Restaurant,Chinese • Hainanese
+https://www.hungrygowhere.com/singapore/froth-raffles-place-boat-quay/,Froth,$$,"Ascott Singapore Raffles Place, 2 Finlayson Green, 049247",Cafe,Fusion • Western
+https://www.hungrygowhere.com/singapore/hard_rock_cafe_cuscaden/,Hard Rock Cafe (HPL House),$$,"#05-01 HPL House, 50 Cuscaden Road, 249724",Bar or Pub,American • Beer • Drinks • Western
+https://www.hungrygowhere.com/singapore/rose_veranda/,The Rose Veranda,$$$,"Mezzanine Level Shangri-La Hotel, 22 Orange Grove Road, 258350",Cafe,English • European • International
+https://www.hungrygowhere.com/singapore/the_coffee_bean_tea_leaf_singapore_expo/,The Coffee Bean & Tea Leaf (Singapore Expo 2),$,"#01-65 Singapore Expo 2, 1 Expo Drive, 486150",Cafe,American • Desserts
+https://www.hungrygowhere.com/singapore/bebek-goreng-pak-ndut-orchard-river-valley/,Bebek Goreng Pak Ndut (Lucky Plaza),$,"#01-42/43/44 Lucky Plaza, 304 Orchard Road, 238863",Cafe,Asian • Malay / Indonesian
+https://www.hungrygowhere.com/singapore/leopold-cantonment-tanjong-pagar-chinatown/,leopold,$$,"96 Tanjong Pagar Road, 088517",Bar or Pub,Drinks • European • German • Western • Wine
+https://www.hungrygowhere.com/singapore/lu-ding-ji-bedok-chai-chee-upper-changi/,Lu Ding Ji,$,"#01-13 Viva Business Park, 750 Chai Chee Road, 469000",Kiosk or Stall,Chinese • Singaporean
+https://www.hungrygowhere.com/singapore/inaniwa-yosuke-orchard-river-valley/,Inaniwa Yosuke,$$,"Level 04 Japan Food Town Wisma Atria, 435 Orchard Road, 238877",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/holycrab-bugis/,HolyCrab,$,"#01-03, 2 Tan Quee Lan Street, 188091",Restaurant,Chinese • Seafood
+https://www.hungrygowhere.com/singapore/la-cala/,La Cala,$$$$,"#01-40/43 DUO Galleria, 7 Fraser Street, 189356",Restaurant,Mediterranean • Spanish
+https://www.hungrygowhere.com/singapore/gelare-cafe-bugis/,Geláre (Bugis+),,"#05-10 Bugis+, 201 Victoria Street, 188067",Cafe,Desserts • Halal • Western
+https://www.hungrygowhere.com/singapore/runway-80-hougang-tai-seng-upper-serangoon/,Runway80,$$,"163 Upper Paya Lebar Road, 534857",Restaurant,Beer • Drinks • Western
+https://www.hungrygowhere.com/singapore/black-fairy-coffee-jalan-besar-lavender/,Black Fairy Coffee,$,"131 Tyrwhitt Road, 207553",Cafe,Drinks • Western
+https://www.hungrygowhere.com/singapore/rise-grind-coffee-co-upper-bukit-timah/,Rise & Grind Coffee Co.,,"#L1-CA1 Bukit Timah Plaza, 1 Jalan Anak Bukit, 588996",Cafe,Desserts • European • Fusion • Western
+https://www.hungrygowhere.com/singapore/gelare-cafe-bedok-chai-chee-upper-changi/,Geláre (Viva Business Park),$,"#01-32 Viva Business Park, 750 Chai Chee Road, 469000",Cafe,Desserts • Halal • Western
+https://www.hungrygowhere.com/singapore/teppan-bar-q-orchard-river-valley-01-21-22/,Teppan Bar Q,$$,"#01-21/22 Robertson Walk, 11 Unity Street, 237995",Bar or Pub,Beer • Cocktails • Drinks • Japanese • Wine
+https://www.hungrygowhere.com/singapore/stage-bugis/,Stage,$$$,"60 Prinsep Street, 188664",Bar or Pub,Beer • Cocktails • Drinks • Pizza • Western
+https://www.hungrygowhere.com/singapore/sichuan-village-chinatown/,Sichuan Village,$,"Kreta Ayer Conservation Area, 3 Mosque Street, 059484",Restaurant,Asian • Chinese • Sichuan
+https://www.hungrygowhere.com/singapore/55-steamboat-chinatown/,55 Steamboat,$$,"55 South Bridge Road, 058686",Restaurant,Asian • Chinese • Sichuan • Steamboat
+https://www.hungrygowhere.com/singapore/fish-co-jurong-east/,Fish & Co. (Westgate),,"#01-03 Westgate, 3 Gateway Drive, 608532",Fast Food Place,Fusion • Halal • Western
+https://www.hungrygowhere.com/singapore/bangkok-street-mookata/,Bangkok Street Mookata (Jalan Kuras),$,"14 Jalan Kuras, 577728",Restaurant,Thai
+https://www.hungrygowhere.com/singapore/heritageone-changi-bedok-north/,HeritageOne,$$,"#03-11 Ue Bizhub East, 4 Changi Business Park Avenue 1, 486016",Restaurant,Indian
+https://www.hungrygowhere.com/singapore/dian-xiao-er-bedok-chai-chee-upper-changi/,Dian Xiao Er (Bedok Mall),$$,"#01-73/74 Bedok Mall, 311 New Upper Changi Road, 467360",Restaurant,Asian • Chinese
+https://www.hungrygowhere.com/singapore/nomvnom-hougang-tai-seng-upper-serangoon/,nomVnom (Tai Seng),$,"#B1-02 18 Tai Seng, 18 Tai Seng Street, 539775",Fast Food Place,Vegetarian • Western
+https://www.hungrygowhere.com/singapore/bottega-serangoon/,Bottega Serangoon Garden (Serangoon Garden),,"#01-11 Myvillage At Serangoon Garden, 1 Maju Avenue, 556679",Restaurant,Desserts • European • Italian • Pizza • Western
+https://www.hungrygowhere.com/singapore/seoul-yummy-thomson-sin-ming-bishan-01-40/,Seoul Yummy (Junction 8),$,"#01-40 Junction 8 Shopping Centre, 9 Bishan Place, 579837",Restaurant,Korean
+https://www.hungrygowhere.com/singapore/Filipino_Fiesta/,Filipino Fiesta,$$,"Nil, 450 Joo Chiat Road, 427663",Restaurant,Asian • Filipino
+https://www.hungrygowhere.com/singapore/Crab_Song/,Crab Song,$,"16 Smith Street, 058930",Restaurant,Chinese
+https://www.hungrygowhere.com/singapore/le-rida-upper-bukit-timah-/,Le Rida (Bukit Timah Road),$,"-, 903 Bukit Timah Road, 589620",Bar or Pub,Drinks • French • Lebanese • Middle Eastern
+https://www.hungrygowhere.com/singapore/small-seafood-noodle-chinatown/,Small Seafood Noodle,$$,"201 South Bridge Road, 058750",Restaurant,Chinese
+https://www.hungrygowhere.com/singapore/the-local-box-anson-tanjong-pagar/,The Local Box,$,"#01-05, 8 Enggor Street, 079718",Restaurant,Drinks • Singaporean
+https://www.hungrygowhere.com/singapore/madame-fan-bugis/,Madame Fan,,"30 Beach Road, 189763",Restaurant,Chinese
+https://www.hungrygowhere.com/singapore/kan-sushi-anson-tanjong-pagar/,Kan Sushi,$$,"#02-54 International Plaza, 10 Anson Road, 079903",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/tea-villa-cafe-singapore-joo-chiat-katong-east-coast/,Tea Villa Cafe Singapore,,"97 East Coast Road, 428794",Cafe,Indian • Mexican • Western
+https://www.hungrygowhere.com/singapore/ladyboy-mookata-steamboat-cheese-geylang-stadium-old-airport/,Ladyboy Mookata Cheese,$$,"644 Lorong 40, Geylang Road, 389574",Restaurant,Drinks • Steamboat • Thai
+https://www.hungrygowhere.com/singapore/pizzeria-lucia-changi-bedok-north/,Pizzeria Lucia,$,"#01-05 East Village, 430 Upper Changi Road, 487048",Restaurant,Desserts • Drinks • Italian • Pizza
+https://www.hungrygowhere.com/singapore/raj-restaurant/,Raj Restaurant (Race Course Road),$,"#01-01/05 Soho @ Farrer, 172 Race Course Road, 218605",Restaurant,Asian • Indian • South Indian
+https://www.hungrygowhere.com/singapore/one_ninety/,One-Ninety Restaurant,$$$$,"Main Lobby Level Four Seasons Hotel, 190 Orchard Boulevard, 248646",Restaurant,Asian • Western
+https://www.hungrygowhere.com/singapore/the-reading-room-cantonment-tanjong-pagar-chinatown/,The Reading Room,$$,"19 Bukit Pasoh Road, 089833",Cafe,European • Italian • Western
+https://www.hungrygowhere.com/singapore/1864-lobby-bar-anson-tanjong-pagar/,1864,,"Sofitel Singapore City Centre, 9 Wallich Street, 078885",Bar or Pub,Cocktails • Drinks • French
+https://www.hungrygowhere.com/singapore/himawari-japanese-restaurant-yishun/,Himawari Japanese Restaurant (Orchid Country Club),$$$,"#02-02 Golf Driving Range Unit (Located at Car Park A), 1 Orchid Club Road, 769162",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/isteamboat-chinese-restaurant-marina-square-suntec-city-hall/,iSteamboat Chinese Restaurant,$,"#04-102a Marina Square, 6 Raffles Boulevard, 039594",Restaurant,Asian • Chinese • Steamboat
+https://www.hungrygowhere.com/singapore/pim-pam-by-foc-orchard-river-valley/,FOC PIM PAM,$$$,"#01-29 Orchard Hotel Galleria, 442 Orchard Road, 238879",Bar or Pub,Catalan • Cocktails • Drinks
+https://www.hungrygowhere.com/singapore/old_hong_kong_kitchen_square_2/,Old Hong Kong Kitchen (Square 2),$$,"#02-80 Novena Square 2, 10 Sinaran Drive, 307506",Restaurant,Asian • Cantonese • Chinese
+https://www.hungrygowhere.com/singapore/seoul-jjimdak-jalan-besar-lavender/,Seoul Jjimdak,$$,"#05-04 City Square Mall, 180 Kitchener Road, 208539",Restaurant,Asian • Korean
+https://www.hungrygowhere.com/singapore/nomvnom-chinatown/,nomVnom (The Central),$,"#B1-44 The Central, 6 Eu Tong Sen Street, 059817",Fast Food Place,Vegetarian • Western
+https://www.hungrygowhere.com/singapore/meat-smith/,Meat Smith (Little India),,"21 Campbell Lane, 209894",Restaurant,American • Barbecue • Indian
+https://www.hungrygowhere.com/singapore/bodacious-bar-bistro-dover-buona-vista-ayer-rajah/,Bodacious Bar & Bistro,$$,"#01-02/03/04/05, 70 Biopolis Street, 138547",Bar or Pub,American • Beer • Desserts • Drinks • Western
+https://www.hungrygowhere.com/singapore/dian-xiao-er-thomson-sin-ming-bishan/,Dian Xiao Er (Junction 8),$$,"#B1-07 Junction 8 Shopping Centre, 9 Bishan Place, 579837",Restaurant,Asian • Chinese
+https://www.hungrygowhere.com/singapore/bangkok-street-mookata-toa-payoh/,Bangkok Street Mookata (Toa Payoh),$,"#01-01, 211 Lorong 8 Toa Payoh, 310211",Kiosk or Stall,Asian • Indochinese • Thai
+https://www.hungrygowhere.com/singapore/indobox-jurong-east/,IndoBox (Jem),$,"#03-22 Jem, 50 Jurong Gateway Road, 608549",Restaurant,Halal • Indonesian
+https://www.hungrygowhere.com/singapore/thunderbird-sports-bistro/,Thunderbird Sports Bistro,,"#01-10/11 Robertson Walk, 11 Unity Street, 237995",Bar or Pub,Asian • Drinks • Fusion
+https://www.hungrygowhere.com/singapore/pizzaface-bugis-beach-road/,Pizza Face (Concourse Skyline),$$,"#01-03 Concourse Skyline, 296 Beach Road, 199600",Cafe,American • European • Italian • Western
+https://www.hungrygowhere.com/singapore/fart-tartz-chinatown/,Fart Tartz (South Bridge Road),$,"#01-16 Fook Hai Building, 150 South Bridge Road, 058727",Confectionery or Bakery,Desserts
+https://www.hungrygowhere.com/singapore/charlie-s-paradiso-raffles-place-boat-quay/,Charlie's Paradiso,,"Boat Quay Conservation Area, 32 Boat Quay, 049821",Bar or Pub,Steak and Grills
+https://www.hungrygowhere.com/singapore/kucina-italian-tanjong-rhu-katong-amber-road/,Kucina Italian,$$,"#B1-09/10 Kinex, 11 Tanjong Katong Road, 437157",Restaurant,Italian
+https://www.hungrygowhere.com/singapore/kuai-le-lao-jia-chinatown/,Kuai Le Lao Jia,$$,"#01-01, 42 Mosque Street, 059523",Restaurant,Asian • Chinese • Sichuan
+https://www.hungrygowhere.com/singapore/fish-co-bugis/,Fish & Co. (Bugis+),,"#04-07 Bugis+, 201 Victoria Street, 188067",Fast Food Place,Fusion • Halal • Western
+https://www.hungrygowhere.com/singapore/bakalaki-greek-taverna-tiong-bahru-outram/,BAKALAKI Greek Taverna,$$$$,"3 Seng Poh Road, 168891",Restaurant,Desserts • Drinks • Greek • Wine
+https://www.hungrygowhere.com/singapore/pince-pints-joo-chiat-katong-east-coast/,Pince & Pints Restaurant & Bar (Katong),$$$,"95 East Coast Road, 428793",Bar or Pub,American • Beer • Cocktails • Seafood • Western
+https://www.hungrygowhere.com/singapore/seoul-yummy/,Seoul Yummy (Jem),$,"#03-05/06 Jem, 50 Jurong Gateway Road, 608549",Restaurant,Korean
+https://www.hungrygowhere.com/singapore/FRY_Rooftop_Bistro/,FRY Bistro,$$,"96B Club Street, 069464",Bar or Pub,Beer • Fusion • Western • Wine
+https://www.hungrygowhere.com/singapore/fish-co-seletar-jalan-kayu/,Fish & Co. (The Seletar Mall),$$,"#03-22 & #03-K4/K5 The Seletar Mall, 33 Sengkang West Avenue, 797653",Fast Food Place,Fusion • Halal • Western
+https://www.hungrygowhere.com/singapore/suki-ya-orchard-river-valley/,Suki-Ya (Suki-Ya Plaza Singapura),$$,"#04-62 Plaza Singapura, 68 Orchard Road, 238839",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/the-durian-story/,The Durian Story,$$$,"#01-11, 151 Serangoon North Ave 2, 550151",Cafe,Desserts
+https://www.hungrygowhere.com/singapore/gin-khao-telok-blangah-harbourfront/,Gin Khao Bistro (Sentosa Cove),$$,"#01-12 Sentosa Cove Quayside Isle, 31 Ocean Way, 098375",Restaurant,Asian • Indochinese • Thai
+https://www.hungrygowhere.com/singapore/qtech-cafe-jalan-besar-lavender/,Qtech Cafe,$,"211 Syed Alwi Road, 207744",Cafe,Local • North Indian • Pizza • Western
+https://www.hungrygowhere.com/singapore/rong-hua-bak-kut-teh-suntec-city-hall/,Rong Hua Bak Kut Teh (Marina Square),$,"#02-201 Marina Square, 6 Raffles Boulevard, 039594",Restaurant,Asian • Chinese • Local
+https://www.hungrygowhere.com/singapore/the-otters-toast/,The Otters’ Toast,$,"#01-928 Eunos Grove, 631 Bedok Reservoir Road, 470631",Cafe,Desserts
+https://www.hungrygowhere.com/singapore/a1-indian-curry-north-indian-lebanese-food-bugis-beach-road/,A1 Indian Curry North Indian & Lebanese Food,$,"S.a.t. Alsagoff, 12 Pahang Street, 198613",Restaurant,Indian • Lebanese
+https://www.hungrygowhere.com/singapore/royal-steam-seafood-jurong-east/,Royal Steam Seafood (Opposite IMM),$$$,"#01-02, 2 Jurong Gateway Road, 608512",Restaurant,Beer • Chinese • Drinks • Seafood • Wine
+https://www.hungrygowhere.com/singapore/jag-s-gastropub-upper-east-coast-siglap/,Jag's Gastropub (East Coast Road),$$,"922 East Coast Road, 459114",Bar or Pub,Beer • French • Western • Wine
+https://www.hungrygowhere.com/singapore/house-of-commons-little-india/,House of Commons,$,"138 Owen Road, 218939",Cafe,Desserts • Western
+https://www.hungrygowhere.com/singapore/gelare-cafe-tampines-simei/,Geláre (Tampines One),$,"#04-K2/K3 Tampines One, 10 Tampines Central 1, 529536",Cafe,Desserts • Halal • Western
+https://www.hungrygowhere.com/singapore/bob_s_bar_capella_singapore/,Bob's Bar,$$,"Capella Singapore, 1 The Knolls, 098297",Bar or Pub,Beer • Cuban • Drinks • Western • Wine
+https://www.hungrygowhere.com/singapore/pasta_brava_restaurant/,Pasta Brava Restaurant,$$$,"11 Craig Road, 089671",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/alligator_pear/,Alligator Pear (Fairmont Singapore),,"Level 8 Fairmont Singapore, 80 Bras Basah Road, 189560",Bar or Pub,Beer • Western • Wine
+https://www.hungrygowhere.com/singapore/szechuan_court/,Szechuan Court,$$$,"Level 3 Fairmont Singapore, 80 Bras Basah Road, 189560",Restaurant,Asian • Cantonese • Chinese • Sichuan
+https://www.hungrygowhere.com/singapore/flock-cafe-tiong-bahru/,Flock Cafe (Tiong Bahru),$,"#01-25, 78 Moh Guan Terrace, 162078",Cafe,European • Western
+https://www.hungrygowhere.com/singapore/sugisawa_japanese_restaurant/,Sugisawa Japanese Restaurant,$$,"#01-16 Riverside View Condominium, 30 Robertson Quay, 238251",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/sarnies-telok-ayer/,Sarnies,$$,"Telok Ayer Conservation Area, 136 Telok Ayer Street, 068601",Cafe,Australian • Western
+https://www.hungrygowhere.com/singapore/woorinara_korean_restaurant/,Woorinara Korean Restaurant,$$,"#01-02, 19 Lorong Kilat, 598120",Restaurant,Asian • Korean
+https://www.hungrygowhere.com/singapore/marriott-cafe-orchard-river-valley/,Marriott Cafe,$$$,"Ground Floor Singapore Marriott Tang Plaza Hotel, 320 Orchard Road, 238865",Cafe,Asian • International
+https://www.hungrygowhere.com/singapore/gyoza-king-anson-tanjong-pagar/,Gyoza King (Orchid Hotel Singapore),$,"#01-15 Orchid Hotel, 1 Tras Link, 078867",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/tash-tish-tosh-bugis-beach-road/,Tash Tish Tosh,$$,"Kampong Glam Conservation Area, 50 Kandahar Street, 198900",Restaurant,Local • Western
+https://www.hungrygowhere.com/singapore/wok-master-jalan-besar-lavender-02-51/,Wok Master (City Square Mall),$$,"#02-51/52 City Square Mall, 180 Kitchener Road, 208539",Restaurant,Asian • Chinese • Fusion
+https://www.hungrygowhere.com/singapore/the-white-rocket-tanjong-pagar-raffles-place/,The White Rocket,$$$,"Telok Ayer Conservation Area, 5 Stanley Street, 068724",Bar or Pub,Asian • Beer • Drinks • Vegetarian • Western
+https://www.hungrygowhere.com/singapore/opus-bar-grill-orchard-river-valley/,Opus Bar & Grill,$$$$,"Lobby Level Grill Hilton Singapore, 581 Orchard Road, 238883",Bar or Pub,Australian • Local • Vegetarian • Western
+https://www.hungrygowhere.com/singapore/munchy_donut/,Munchy Donut,,"#01-63 Singapore Expo, 1 Expo Drive, 486150",Confectionery or Bakery,Desserts • Snacks • Western
+https://www.hungrygowhere.com/singapore/huggs-cafe-eunos-ubi/,Huggs Cafe (Singapore Post Centre),$,"Level 2 Singapore Post Centre, 10 Eunos Road 8, 408600",Cafe,American
+https://www.hungrygowhere.com/singapore/KFC__Singapore_Post_Centre_/,KFC (Singapore Post Centre),,"#B1-11 Singapore Post Centre, 10 Eunos Road, 408600",Fast Food Place,Halal • Western
+https://www.hungrygowhere.com/singapore/bar-roque-grill-cantonment-tanjong-pagar-chinatown/,Bar-Roque Grill,$$$$,"#01-00, 165 Tanjong Pagar Road, 088539",Restaurant,European • French
+https://www.hungrygowhere.com/singapore/l_angelus/,L'angelus,$$$$,"85 Club Street, 069453",Restaurant,European • French • Western
+https://www.hungrygowhere.com/singapore/two_blur_guys/,Two Blur Guys,$,"#01-13 Orchid Hotel, 1 Tras Link, 078867",Cafe,American • Desserts • Western
+https://www.hungrygowhere.com/singapore/roma_s_deli/,Roma's Deli,$,"#01-23 Shaw Towers, 100 Beach Road, 189702",Cafe,European • Italian • Pizza • Vegetarian • Western
+https://www.hungrygowhere.com/singapore/the-beast-bugis-beach-road/,The Beast,$$,"Kampong Glam Conservation Area, 17 Jalan Klapa, 199329",Bar or Pub,American • Beer • Drinks
+https://www.hungrygowhere.com/singapore/post_bar_fullerton_square/,Post Bar,$$,"Level 01 Fullerton Hotel, 1 Fullerton Square, 049178",Bar or Pub,Cocktails • Drinks
+https://www.hungrygowhere.com/singapore/super-dario-lasagne-cafe-jalan-besar-lavender/,Super Dario Lasagne Cafe,$,"#04-17 City Square Mall (opposite Daiso), 180 Kitchener Road, 208539",Cafe,European • Italian • Western
+https://www.hungrygowhere.com/singapore/manhattan-tanglin-dempsey-orchard/,Manhattan,$$$$,"Level 2 Regent Singapore, 1 Cuscaden Road, 249715",Bar or Pub,American • Western
+https://www.hungrygowhere.com/singapore/bali_thai_imm/,Bali Thai Restaurant (IMM),$$,"#01-21 IMM, 2 Jurong East Street 21, 609601",Restaurant,Indonesian • Thai
+https://www.hungrygowhere.com/singapore/the-waterfall-orchard-bukit-timah-level-1-garden-wing/,Waterfall Ristorante Italiano,$$$$,"Level 1, Garden Wing Shangri-la Hotel, 22 Orange Grove Road, 258350",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/shin-kushiya-telok-blangah-harbourfront/,Shin Kushiya (Vivo City),$$,"#02-120 Vivocity, 1 Harbourfront Walk, 098585",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/la_nonna_holland_village/,La Nonna (Holland Village),$$,"Holland Village, 26 Lorong Mambong, 277685",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/LeVeL33/,LeVeL33,$$$$,"#33-01 Marina Bay Financial Centre Tower 1, 8 Marina Boulevard, 018981",Bar or Pub,Beer • Western • Wine
+https://www.hungrygowhere.com/singapore/char-sticks-grill-hougang-tai-seng-upper-serangoon/,Char Sticks & Grill,$$$$,"#01-54 Kensington Square, 2 Jalan Lokam, 537846",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/hi-joyful-chinatown/,Hi Joyful,$$$$,"27 Smith Street, 058941",Restaurant,Asian • Chinese • Seafood
+https://www.hungrygowhere.com/singapore/birdie-num-num-gastrobar-kembangan-kaki-bukit-changi/,Birdie Num Num Gastrobar,$$,"54 Jalan Kembangan, 419119",Restaurant,Asian • Western
+https://www.hungrygowhere.com/singapore/chimichanga-jalan-besar-lavender/,Chimichanga,,"Little India Conservation Area, 36 Dunlop Street, 209364",Bar or Pub,Beer • Cocktails • Drinks • Mexican
+https://www.hungrygowhere.com/singapore/sluviche-cantonment-tanjong-pagar-chinatown/,Sluviche,,"17A Keong Saik Road, 089124",Restaurant,Cocktails • Fusion • Japanese
+https://www.hungrygowhere.com/singapore/miyako/,Miyako,$$,"#02-10/11 Millenia Walk, 9 Raffles Boulevard, 039596",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/tcc_the_connoisseur_concerto_anchorpoint/,TCC - The Connoisseur Concerto (Anchorpoint),$$,"#01-07/08 Anchorpoint Shopping Centre, 370 Alexandra Road, 159953",Cafe,American • Desserts • Western
+https://www.hungrygowhere.com/singapore/yu-pin-steamed-seafood-bugis/,Yu Pin Steam Seafood,,"#01-05 Bugis Cube, 470 North Bridge Road, 188735",Restaurant,Asian • Chinese • Seafood
+https://www.hungrygowhere.com/singapore/sg-taps-cantonment-tanjong-pagar-chinatown/,SG Taps,$,"#01-01, 13 Duxton Hill, 089597",Bar or Pub,Asian • Western
+https://www.hungrygowhere.com/singapore/brotzeit-joo-chiat-katong-east-coast/,Brotzeit (Katong),$$$,"126 East Coast Road, 428809",Bar or Pub,Beer • European • German • Italian • Pizza • Western • Wine
+https://www.hungrygowhere.com/singapore/ginza-lion-suntec-city-hall/,Ginza Lion (Suntec City),$$,"#01-650 Suntec City Mall, 3 Temasek Boulevard, 038983",Bar or Pub,Asian • Beer • Drinks • Japanese • Wine
+https://www.hungrygowhere.com/singapore/gelare-cafe-bukit-panjang/,Geláre (Hillion Mall),$,"#B1-31/32 Hillion Mall, 17 Petir Road, 678278",Cafe,Desserts • Halal • Western
+https://www.hungrygowhere.com/singapore/peace-caf-jalan-besar-lavender/,Peace Café,$,"Little India Conservation Area, 4 Dalhousie Lane, 209673",Cafe,Fusion • International
+https://www.hungrygowhere.com/singapore/wan-nian-stone-pot-fish-chinatown/,Wan Nian Stone Pot Fish,$$,"Kreta Ayer Conservation Area, 52 Smith Street, 058959",Restaurant,Chinese
+https://www.hungrygowhere.com/singapore/b3-burger-beer-bistro-city-hall-high-street-clarke-quay/,Burger Beer Bistro,$,"#B1-61 SMU Concourse (School of Information Systems), 80 Stamford Road, 178902",Bar or Pub,Desserts • Drinks • Western
+https://www.hungrygowhere.com/singapore/bijin-nabe-city-hall-high-street-clarke-quay/,Bijin Nabe by Tsukada Nojo (Liang Court),$$,"#B1-03/04/05 Liang Court, 177 River Valley Road, 179030",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/jew-kit-hainanese-chicken-rice-upper-bukit-timah/,Jew Kit (Bukit Timah),,"#B1-17/18 Bukit Timah Shopping Centre, 170 Upper Bukit Timah Road, 588179",Kiosk or Stall,Asian • Chinese • Hainanese • Thai
+https://www.hungrygowhere.com/singapore/table-by-rang-mahal-bugis/,Table by Rang Mahal,$$$,"Naumi Hotel, 41 Seah Street, 188396",Restaurant,Asian • Indian • International • North Indian • South Indian
+https://www.hungrygowhere.com/singapore/nami-orchard-bukit-timah/,NAMI Restaurant and Bar,$$$$,"Level 24 Tower Wing, Shangri-La Hotel, 22 Orange Grove Road, 258350",Restaurant,Drinks • Japanese
+https://www.hungrygowhere.com/singapore/the-basic-cafe/,The Basic Cafe,,"#01-04, 9 Yio Chu Kang Road, 545523",Cafe,Desserts • Western
+https://www.hungrygowhere.com/singapore/tang-restaurant-and-bar-cantonment-tanjong-pagar-chinatown/,Tang Restaurant and Bar,,"#01-01, 25 Keong Saik Road, 089132",Bar or Pub,Chinese • Drinks • Sichuan • Steamboat
+https://www.hungrygowhere.com/singapore/gelare-cafe-dover-buona-vista-ayer-rajah/,Geláre (The Star Vista),,"#02-27 The Star Vista, 1 Vista Exchange Green, 138617",Cafe,Desserts • Halal • Western
+https://www.hungrygowhere.com/singapore/dian-xiao-er-punggol/,Dian Xiao Er (Waterway Point),$,"#01-30 Waterway Point, 83 Punggol Central, 828761",Restaurant,Asian • Chinese
+https://www.hungrygowhere.com/singapore/spingleaf-prata-place-bukit-panjang/,Springleaf Prata Place (The Rail Mall),$,"The Rail Mall, 396 Upper Bukit Timah Road, 678040",Restaurant,Asian • Halal • Indian • Vegetarian
+https://www.hungrygowhere.com/singapore/metropolitan-ymca-restaurant-orchard-bukit-timah/,Metropolitan YMCA Restaurant,$,"60 Stevens Road, 257854",Restaurant,Asian • Chinese • Western
+https://www.hungrygowhere.com/singapore/cozy-bistro-lounge/,Cozy Bistro & Lounge,$,"#01-51/52 Kensington Square, 2 Jalan Lokam, 537846",Restaurant,Asian • Western
+https://www.hungrygowhere.com/singapore/niku-katsumata-cantonment-tanjong-pagar-chinatown-/,Niku Katsumata,$$$$,"Tanjong Pagar Conservation Area, 47 Duxton Road, 089511",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/rodizio-do-brazil/,Rodizio Do Brazil Churrascaria & Bar,$$$,"#01-07 Clarke Quay, 3E River Valley Road, 179024",Restaurant,Brazilian • Chinese • Western
+https://www.hungrygowhere.com/singapore/pink_candy_/,Pink Candy,$,"#04-03 Beauty World Centre, 144 Upper Bukit Timah Road, 588177",Restaurant,Asian • Korean
+https://www.hungrygowhere.com/singapore/sg-kitchen-bugis-/,SG Kitchen,$,"Housemen's Canteen, Stall 5, 10 College Road, 169851",Restaurant,Asian • Halal • Singaporean
+https://www.hungrygowhere.com/singapore/l-operetta-corner-bar-tanjong-pagar-raffles-place/,L’Operetta Corner Bar,,"Telok Ayer Conservation Area, 7 Boon Tat Street, 069614",Restaurant,Drinks • European • Italian
+https://www.hungrygowhere.com/singapore/suki-ya-joo-chiat-katong-east-coast/,Suki-Ya (112 Katong),$$,"#02-07 112 Katong, 112 East Coast Road, 428802",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/Pietro_Ristorante_Italiano/,Pietro Ristorante Italiano,$$,"12 Jalan Kelulut, 809030",Bar or Pub,Beer • European • Italian • Pizza • Western • Wine
+https://www.hungrygowhere.com/singapore/shu-yan-sichuan-cuisine/,Shu Yan Sichuan Cuisine,,"#01-51/54 UE Square, 207 River Valley Road, 238275",Restaurant,Cantonese • Chinese • Sichuan
+https://www.hungrygowhere.com/singapore/yuzutei/,Yuzutei,$,"#01-01 Interlocal Centre, 100G Pasir Panjang Road, 118523",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/greendot-dover-buona-vista-ayer-rajah/,GreenDot (Star Vista),$,"#01-33 The Star Vista, 1 Vista Exchange Green, 138617",Fast Food Place,Asian • Fusion
+https://www.hungrygowhere.com/singapore/baci-baci-serangoon/,Baci Baci,,"Serangoon Garden Estate, 27 Lichfield Road, 556847",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/gyu-kaku-japanese-bbq-restaurant/,Gyu-Kaku Japanese BBQ Restaurant (The Star Vista),$$$$,"#02-17 The Star Vista, 1 Vista Exchange Green, 138617",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/hougang-805-seafood-kitchen-hougang-tai-seng-upper-serangoon-01-116/,805 Seafood Kitchen,$,"#01-116, 805 Hougang Central, 530805",Cafe,Chinese • Seafood • Steamboat
+https://www.hungrygowhere.com/singapore/chuan-yang-ji-mutton-soup-steamboat-geylang-stadium-old-airport/,Chuan Yang Ji Mutton Soup Steamboat (Geylang),$$,"2 Lorong 1 Geylang, 389115",Restaurant,Chinese • Local • Singaporean • Steamboat
+https://www.hungrygowhere.com/singapore/good-time-eat-drink-upper-east-coast-siglap/,GoodTimeEatDrink,$$,"889 East Coast Road, 459092",Restaurant,Asian • Fusion
+https://www.hungrygowhere.com/singapore/rong-heng-seafood-marine-parade/,Rong Heng Seafood,$$$,"#01-03 East Coast Seafood Centre, 1202 East Coast Parkway, 449881",Restaurant,Chinese
+https://www.hungrygowhere.com/singapore/hokkai-villa-raffles-place-boat-quay/,Hokkai Villa,,"33-35 Pekin Street, 048763",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/aglio-olio-bistro-pasir-panjang-science-park-kent-ridge/,Aglio Olio Bistro (Science Park),,"#01-29 Ascent, 2 Science Park Drive, 118222",Cafe,European • Italian • Western
+https://www.hungrygowhere.com/singapore/come-n-joy-korean-restaurant/,Come N Joy Korean Restaurant,$,"#01-26 Millenia Walk, 9 Raffles Boulevard, 039192",Restaurant,Drinks • Korean
+https://www.hungrygowhere.com/singapore/xin-divine-cantonment-tanjong-pagar-chinatown/,Xin Divine,,"Level 1& 2 Tanjong Pagar Conservation Area, 10 Duxton Hill, 089594",Restaurant,Chinese
+https://www.hungrygowhere.com/singapore/be-my-guest-cafe/,Be My Guest Cafe,$,"#01-20 The Commerze@irving, 1 Irving Place, 369546",Cafe,Desserts • Western
+https://www.hungrygowhere.com/singapore/zhe-bian-lai-bendemeer-kallang-boon-keng/,Zhe Bian Lai,,"#01-529A, 71 Kallang Bahru, 330071",Restaurant,Chinese
+https://www.hungrygowhere.com/singapore/hunan-cuisine-restaurant-chinatown/,Hunan Cuisine Restaurant,$$,"8, 9, 10 Mosque Street, 059489",Restaurant,Chinese • Hunan
+https://www.hungrygowhere.com/singapore/schmear-telok-blangah-harbourfront/,Schmear,$$,"#01-03 Sentosa Cove, 31 Ocean Way, 098375",Cafe,American
+https://www.hungrygowhere.com/singapore/byblos-grill-bugis-beach-road/,Byblos Grill,$$,"14 Bussorah Street, 199435",Restaurant,Lebanese
+https://www.hungrygowhere.com/singapore/the-milky-way-homemade-ice-cream-and-coffee-commonwealth-queenstown/,The Milky Way Homemade Ice Cream and Coffee,$,"48 Tanglin Halt Road, 142048",Cafe,Desserts • Western
+https://www.hungrygowhere.com/singapore/les-patisseries-thomson-sin-ming-bishan/,Les Patisseries (Thomson Garden Estate),$,"Thomson Garden Estate, 222 Upper Thomson Road, 574354",Cafe,Desserts
+https://www.hungrygowhere.com/singapore/good-old-days-bistro-bugis-beach-road/,Good Old Days Bistro,$$,"Kampong Glam Conservation Area, 337 Beach Road, 199565",Cafe,Western
+https://www.hungrygowhere.com/singapore/green-ba/,Green Ba,$,"#02-103 Marina Square, 6 Raffles Boulevard, 039594",Restaurant,Asian • Vegetarian • Western
+https://www.hungrygowhere.com/singapore/gelare-cafe-jurong-east/,Geláre (IMM),,"#01-22A International Merchandise Mart, 2 Jurong East Street 21, 609601",Cafe,Desserts • Halal • Western
+https://www.hungrygowhere.com/singapore/ikura-japanese-changi-bedok-north-01-01/,IKURA Japanese (East Village),$$$,"#01-01 East Village, 430 Upper Changi Road, 487048",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/Magic_Carpet_Lounge/,Magic Carpet,$$$,"72 Bussorah Street, 199485",Bar or Pub,Beer • Iranian • Middle Eastern • Western • Wine
+https://www.hungrygowhere.com/singapore/7th-heaven-ktv-cafe/,7th Heaven KTV & Cafe,$$,"#03-02 SAFRA Tampines, 1A Tampines Street 92, 528882",Cafe,Desserts • Pizza • Snacks
+https://www.hungrygowhere.com/singapore/dimbulah_raffles_place/,Dimbulah Coffee (Bank of Singapore),$,"Lobby Bank of Singapore, 63 Market Street, 048942",Cafe,Australian
+https://www.hungrygowhere.com/singapore/3-crab-delicacy-seafood-restaurant/,3 Crab Delicacy Seafood Restaurant (Tiong Bahru),$$,"#01-04 Link Hotel, 50 Tiong Bahru Road, 168733",Restaurant,Chinese • Seafood • Singaporean • Teochew
+https://www.hungrygowhere.com/singapore/asian_market_cafe/,Asian Market Cafe,$$$,"Level 2 Fairmont Singapore, 80 Bras Basah Road, 179103",Restaurant,Asian • Chinese • Halal • Nonya / Peranakan
+https://www.hungrygowhere.com/singapore/the-house-of-robert-timms-orchard-river-valley/,The House of Robert Timms (Wheelock Place),$$,"#01-02/03 Wheelock Place, 501 Orchard Road, 238880",Cafe,Australian • Western
+https://www.hungrygowhere.com/singapore/two-bakers-jalan-besar-lavender/,Two Bakers,$$,"88 Horne Road, 209083",Cafe,American • Desserts • European • French • Western
+https://www.hungrygowhere.com/singapore/trattoria_nonna_lina/,Trattoria Nonna Lina,$$$,"61 Cantonment Road, 089757",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/en-sakaba-jurong-east/,En Sakaba (Jem),$$,"#01-04 Jem, 50 Jurong Gateway Road, 608549",Bar or Pub,Japanese
+https://www.hungrygowhere.com/singapore/bespoke-japanese-vegetarian-dining-bugis/,Teng Bespoke Japanese Vegetarian Dining,$$,"#01-50 Sunshine Plaza, 91 Bencoolen Street, 189652",Restaurant,Asian • Japanese • Vegetarian
+https://www.hungrygowhere.com/singapore/harry_s_bar_velocity_novena_square/,Harry's (Novena),$$,"#01-59/60 Novena Velocity, 238 Thomson Road, 307683",Bar or Pub,Beer • Cocktails • Drinks • Western
+https://www.hungrygowhere.com/singapore/odette-restaurant-city-hall-high-street-clarke-quay/,Odette Restaurant,$$$$,"#01-04 National Gallery Singapore, 1 Saint Andrew's Road, 178957",Restaurant,European • French • Western
+https://www.hungrygowhere.com/singapore/crossings-cafe-bugis/,Crossings Cafe,$,"#01-01, 55 Waterloo Street, 187954",Cafe,Asian • European • Greek • Italian • Local • Mediterranean • Singaporean
+https://www.hungrygowhere.com/singapore/alba-1836-cantonment-tanjong-pagar-chinatown/,Alba 1836,$$$$,"#01-01, 28 Duxton Hill, 089610",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/the-citrus-by-the-pool-woodlands/,Citrus By The Pool,$,"Woodlands Swimming Complex, 3 Woodlands Street 13, 738600",Restaurant,Asian • Fusion • Halal • Western
+https://www.hungrygowhere.com/singapore/montana-singapore-bugis/,Montana Singapore,$$,"#02-25 Pomo, 1 Selegie Road, 188306",Cafe,Desserts • Western
+https://www.hungrygowhere.com/singapore/tcc_the_connoisseur_CONCERTO_the_central/,TCC - The Connoisseur Concerto (Central),$,"#02-84/85/86 The Central, 6 Eu Tong Sen Street, 059817",Cafe,American • Desserts • Western
+https://www.hungrygowhere.com/singapore/the-chop-house-joo-chiat-katong-east-coast/,The Chop House (112 Katong),$$$,"#01-13 112 Katong, 112 East Coast Road, 428802",Restaurant,Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/sod-cafe-hougang-tai-seng-upper-serangoon/,SOD Cafe (Hougang Avenue),$,"#01-03, 51 Hougang Avenue 9, 538776",Cafe,Asian • Chinese • Fruits & Drinks • Taiwanese
+https://www.hungrygowhere.com/singapore/tianfu-hong-kong-style-steamboat-tanjong-rhu-katong-amber-road/,Tianfu Hong Kong Style Steamboat,$$,"214 Tanjong Katong Road, 437007",Cafe,Asian • Cantonese • Chinese • Hong Kong • Steamboat
+https://www.hungrygowhere.com/singapore/la_braceria_pizza_and_grill_greendale_ave/,La Braceria Pizza and Grill,$$$,"5 Greendale Avenue, 289501",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/the_tavern_restaurant/,The Tavern Pub & Restaurant,$$$$,"227 River Valley Road, 238287",Bar or Pub,European • Swiss • Western • Wine
+https://www.hungrygowhere.com/singapore/napoleon-food-wine-bar-tanjong-pagar-raffles-place/,Napoleon Food & Wine Bar,$$$,"206 Telok Ayer Street, 068641",Bar or Pub,Beer • European • French • Fusion • Italian • Western • Wine
+https://www.hungrygowhere.com/singapore/tang_tea_house_hong_kong_cafe/,Tang Tea House (Simpang Bedok),$,"357/359 Bedok Road, 469545",Restaurant,Chinese • Dim Sum • Halal
+https://www.hungrygowhere.com/singapore/don-dae-bak-cantonment-tanjong-pagar-chinatown/,Don Dae Bak,$$,"35 Kreta Ayer, 089000",Restaurant,Asian • Barbecue • Korean
+https://www.hungrygowhere.com/singapore/jiang_nan_chun/,Jiang-Nan Chun,$$$$,"2F Four Seasons Hotel, 190 Orchard Boulevard, 248646",Restaurant,Asian • Cantonese • Chinese • Dim Sum
+https://www.hungrygowhere.com/singapore/jang_won_korean_restaurant/,Jang Won Korean Restaurant,$$,"#01-01, 44 Mosque Street, 059522",Restaurant,Asian • Korean
+https://www.hungrygowhere.com/singapore/tang-tea-house-changi-north-changi-coast-/,Tang Tea House (Changi Village),$$,"-, 57 Lorong Bekukong, 499173",Restaurant,Chinese • Dim Sum • Halal
+https://www.hungrygowhere.com/singapore/sky-view-pavilion-suntec-city-hall/,Sky View Pavilion,$$,"#01-04 Singapore Flyer, 30 Raffles Avenue, 039803",Restaurant,Asian • Chinese • Dim Sum • Singaporean
+https://www.hungrygowhere.com/singapore/supertree-by-indochine-gardens-by-the-bay/,SuperTree by IndoChine,$$$$,"#03-01 Gardens by the Bay, 18 Marina Gardens Drive, 018953",Bar or Pub,Drinks • Fusion • Indochinese • Vietnamese • Western
+https://www.hungrygowhere.com/singapore/claw-mookata-tiong-bahru-outram/,Claw Mookata,$,"Hdb-bukit Merah, 116 Bukit Merah View, 151116",Restaurant,Asian • Steamboat • Thai
+https://www.hungrygowhere.com/singapore/mookata-yishun/,Mookata (Yishun),$$,"#01-04 Orto, 81 Lorong Chencharu, 769198",Restaurant,Asian • Chinese • Indochinese • Steamboat • Thai
+https://www.hungrygowhere.com/singapore/kemono/,Kemono Japanese Roast Chicken,$,"#01-01, 171 Selegie Road, 188323",Kiosk or Stall,Japanese
+https://www.hungrygowhere.com/singapore/man_fu_yuan/,Man Fu Yuan,$$$,"L2 InterContinental Singapore, 80 Middle Road, 188966",Restaurant,Asian • Cantonese • Chinese • Dim Sum
+https://www.hungrygowhere.com/singapore/kopitiam-tiong-bahru-outram/,Kopitiam (Singapore General Hospital),,"Level 1 Singapore General Hospital, 6 Outram Road, 169608",Kiosk or Stall,Halal • International • Local
+https://www.hungrygowhere.com/singapore/so-pho-serangoon/,So Pho (Nex),$,"#B1-15 Nex, 23 Serangoon Central, 556083",Restaurant,Vietnamese
+https://www.hungrygowhere.com/singapore/Boulevard-Millenia-Walk/,Boulevard Millenia Walk,$$,"#01-23 Millenia Walk, 9 Raffles Boulevard, 039596",Bar or Pub,English • European
+https://www.hungrygowhere.com/singapore/gurkha_palace_restaurant/,Gurkha Palace Restaurant,$,"51 Chander Road, 219548",Bar or Pub,Indian • Nepalese • North Indian
+https://www.hungrygowhere.com/singapore/Place_to_R_E_A_D/,Place to R.E.A.D.,$$,"#01-01 & 02-01, 46A Prinsep Street, 188675",Bar or Pub,Beer • European • Greek • Mediterranean • Western • Wine
+https://www.hungrygowhere.com/singapore/balithai-restaurant-suntec-city-hall/,Bali Thai Restaurant (Suntec City Mall),$$,"#B1-121 Suntec City West Wing Suntec City Mall, 3 Temasek Boulevard, 038983",Restaurant,Indonesian • Thai
+https://www.hungrygowhere.com/singapore/thai5-bugis/,Thai5,$$,"#01-01, 24 Purvis Street, 188601",Restaurant,Chinese • Thai
+https://www.hungrygowhere.com/singapore/sher-north-indian-casual-dining-bar-sembawang/,Sher North Indian Casual Dining & Bar (Sembawang Road),$,"25 Sembawang Road, 779079",Restaurant,Asian • Indian • North Indian
+https://www.hungrygowhere.com/singapore/court-martial-bar-bugis/,Court Martial Bar,$$,"(Access via Nicoll Highway) JW Marriott Hotel Singapore South Beach, 30 Beach Road, 189763",Bar or Pub,Cocktails • Drinks • Western
+https://www.hungrygowhere.com/singapore/kueh-ho-jiak-cantonment-tanjong-pagar-chinatown-02-20/,Kueh Ho Jiak (Tanjong Pagar Plaza Market & Food Centre),,"#02-20 Tanjong Pagar Plaza Market & Food Centre, 6 Tanjong Pagar Plaza, 081006",Kiosk or Stall,Chinese
+https://www.hungrygowhere.com/singapore/the-connoisseur-concerto-orchard-river-valley/,TCC - The Connoisseur Concerto (Isetan Scotts),$,"Level 2 Isetan Scotts, 350 Orchard Road, 238868",Cafe,American • Desserts • Western
+https://www.hungrygowhere.com/singapore/Mun_Ting_Xiang_Cha_Xuan/,Mun Ting Xiang Cha Xuan,$,"#01-03 Hougang Green Shopping Mall, 21 Hougang Street 51, 538719",Restaurant,Chinese • Taiwanese
+https://www.hungrygowhere.com/singapore/summer_palace/,Summer Palace,$$$$,"3F The Regent Singapore, 1 Cuscaden Road, 249715",Restaurant,Asian • Cantonese • Chinese • Dim Sum
+https://www.hungrygowhere.com/singapore/the-flying-squirrel-tanjong-pagar-raffles-place-01-02/,The Flying Squirrel,$$,"#01-02 Telok Ayer Conservation Area, 92 Amoy Street, 069911",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/wave_house_sentosa/,Wave House Sentosa,$$$,"Siloso Beach Sentosa, 36 Siloso Beach Walk, 099007",Bar or Pub,American • Asian • European • Pizza • Western
+https://www.hungrygowhere.com/singapore/don-signature-crab-toa-payoh/,Don Signature Crab,$,"#01-1197 Toa Payoh North, 206 Toa Payoh North, 310206",Cafe,Asian • Chinese • Local • Seafood • Singaporean
+https://www.hungrygowhere.com/singapore/7th_mile_seafood_bukit_timah/,7th Mile Seafood (Bukit Timah),$$,"#01-97, Blk 18 Toh Yi Drive, 590018",Kiosk or Stall,Asian • Chinese • Seafood
+https://www.hungrygowhere.com/singapore/foc-by-nandu-jubany-chinatown/,FOC Hong Kong Street (Hongkong Street),$$$$,"40 Hongkong Street, 059679",Restaurant,European • Spanish • Western
+https://www.hungrygowhere.com/singapore/azur_crowne_plaza_hotel/,Azur,$$$,"Crowne Plaza Changi Airport, 75 Airport Boulevard, 819664",Restaurant,Asian • Chinese • Western
+https://www.hungrygowhere.com/singapore/jade_fullerton_restaurant/,Jade,$$$$,"Level 01 Fullerton Hotel, 1 Fullerton Square, 049178",Restaurant,Asian • Cantonese • Chinese
+https://www.hungrygowhere.com/singapore/the-chop-house-telok-blangah-harbourfront/,The Chop House (Vivo City),$$$,"#01-161/162 VivoCity, 1 HarbourFront Walk, 098585",Restaurant,Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/kindred-folk/,Kindred Folk,$,"#01-09 Kap Mall, 9 King Albert Park, 598332",Cafe,Desserts • Drinks • Fusion • Western
+https://www.hungrygowhere.com/singapore/paulaner-at-clarke-quay-city-hall-high-street-clarke-quay/,Paulaner At Clarke Quay,$$$,"#01-12 Clarke Quay, 3B River Valley Road, 179021",Bar or Pub,European • German • Western
+https://www.hungrygowhere.com/singapore/la-brasserie-raffles-place-boat-quay/,La Brasserie,$$$$,"Level 01 The Fullerton Bay Hotel Singapore, 80 Collyer Quay, 049326",Bar or Pub,European • French • Western • Wine
+https://www.hungrygowhere.com/singapore/fumee-suntec-city-hall/,Fumee,$$,"#01-54 Millenia Walk, 9 Raffles Boulevard, 039596",Restaurant,Desserts • European • Spanish • Western
+https://www.hungrygowhere.com/singapore/panamericana/,Panamericana,,"Sentosa Golf Club, 27 Bukit Manis Road, 099892",Bar or Pub,Western
+https://www.hungrygowhere.com/singapore/wine-mansion-bistro-sembawang/,Wine Mansion Bistro (Hong Heng Mansions),,"#01-01 Hong Heng Mansions, 54 Sembawang Road, 779085",Bar or Pub,Pizza • Western
+https://www.hungrygowhere.com/singapore/eatzi-gourmet-eunos-ubi/,Eatzi Gourmet (Paya Lebar Square),$$,"#B1-15 Paya Lebar Square, 60 Paya Lebar Road, 409051",Restaurant,Western
+https://www.hungrygowhere.com/singapore/so-pho-punggol/,So Pho (Waterway Point),,"#01-28 Waterway Point, 83 Punggol Central, 828761",Restaurant,Vietnamese
+https://www.hungrygowhere.com/singapore/wok15-kitchen-telok-blangah-harbourfront/,WOK15 Kitchen,$$,"#01-01 Sentosa Cove One15 Marina Club, 11 Cove Drive, 098497",Restaurant,Cantonese • Chinese
+https://www.hungrygowhere.com/singapore/so-pho-thomson-novena-newton/,So Pho (Novena Square),$,"#02-43/45 Velocity @ Novena Square, 238 Thomson Road, 307683",Restaurant,Vietnamese
+https://www.hungrygowhere.com/singapore/toby-s-the-dessert-asylum-jurong-east/,TOBY'S The Dessert Asylum,$$,"#01-35 8 @ Tradehub 21, 8 Boon Lay Way, 609964",Cafe,American • Desserts • Pizza • Snacks • Western
+https://www.hungrygowhere.com/singapore/ergon-suntec-city-hall/,ERGON Greek Deli + Cafe,,"#01-365 West Wing Suntec City Mall, 3 Temasek Boulevard, 038983",Cafe,Drinks • Greek
+https://www.hungrygowhere.com/singapore/g-bar-grill-bukit-merah-redhill-alexandra-01-06/,G Bar & Grill (Apex at Henderson),$$$,"#01-06 Apex @ Henderson, 201 Henderson Road, 159545",Restaurant,Asian • Chinese • Singaporean • Steak and Grills
+https://www.hungrygowhere.com/singapore/georges-beach-club-marine-parade-/,Georges Beach Club (East Coast Park),$$,"1010 East Coast Parkway, 449892",Restaurant,Western
+https://www.hungrygowhere.com/singapore/supreme-vege-bugis/,Supreme Vege,$$,"#02-03 Hotel Royal @ Queens, 12 Queen Street, 188553",Restaurant,Asian • Chinese • Vegetarian
+https://www.hungrygowhere.com/singapore/ristorante-takada-bukit-merah-redhill-alexandra/,Ristorante Takada,$$$$,"#01-07 Alexis, 354 Alexandra Road, 159948",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/flutes-restaurant-bar-city-hall-high-street-clarke-quay/,FLUTES Restaurant.Bar,$$$$,"The National Museum of Singapore, 93 Stamford Road, 178897",Bar or Pub,European • Modern European • Wine
+https://www.hungrygowhere.com/singapore/honguo_bugis_junction/,Honguo (Bugis Junction),$,"#B1-06 Bugis Junction, 200 Victoria Street, 188021",Restaurant,Chinese • Yunnan
+https://www.hungrygowhere.com/singapore/chihuly-lounge-suntec--city-hall/,Chihuly Lounge,$$$,"The Ritz-Carlton, Millenia Singapore, 7 Raffles Avenue, 039799",Bar or Pub,International • Wine
+https://www.hungrygowhere.com/singapore/masons-gillman-barracks-labrador-park/,Masons,$$$,"#01-17 GIllman Barracks, 8 Lock Road, 108936",Restaurant,European • Western
+https://www.hungrygowhere.com/singapore/tom_s_palette/,Tom's Palette,$,"#01-25 Shaw Leisure Gallery, 100 Beach Road, 189702",Cafe,Desserts • Western
+https://www.hungrygowhere.com/singapore/dapper-s-club/,Dapper’s Club,,"109 Killiney Road, 239548",Bar or Pub,Drinks • Italian • Western
+https://www.hungrygowhere.com/singapore/rosso-bianco/,Rosso Bianco,$$$$,"Hillcrest Drive, 2 Greenwood Avenue, 289189",Restaurant,Italian
+https://www.hungrygowhere.com/singapore/so-pho-telok-blangah-harbourfront/,So Pho (Vivo City),$,"#01-171 Vivocity, 1 Harbourfront Walk, 098585",Restaurant,Vietnamese
+https://www.hungrygowhere.com/singapore/medzs-bistro-bar-raffles-place-boat-quay/,MEDZS Bistro & Bar (Clifford Centre),$$,"#01-01 Clifford Centre, 24 Raffles Place, 048621",Bar or Pub,French • Italian • Western
+https://www.hungrygowhere.com/singapore/uni-gallery-by-ooster-bay-bugis-beach-road/,UNI Gallery by Ooster Bay,$$$$,"#B1-310 The Plaza, 7500A Beach Road, 199591",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/indian-curry-house-dover-buona-vista-ayer-rajah/,Indian Curry House (One North),$,"#02-03 Galaxis, 1 Fusionopolis Place, 138522",Bar or Pub,Asian • Indian • North Indian • South Indian • Wine
+https://www.hungrygowhere.com/singapore/aroy-mak-mookata/,Aroy Mak Mookata (Macpherson),,"478 Macpherson Road, 368191",Restaurant,Asian • Indochinese • Steamboat • Thai
+https://www.hungrygowhere.com/singapore/casa-manini/,Casa MANINI,$$,"Serangoon Garden Estate, 14B Kensington Park Road, 557265",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/le-garden-chinatown/,Le Garden Seafood (Temple Street),,"#01-02 The Inn At Temple Street, 36 Temple Street, 058581",Restaurant,Chinese • Drinks • Seafood • Wine
+https://www.hungrygowhere.com/singapore/malaysian-local-delights-tanjong-rhu-katong-amber-road/,Malaysian Local Delights,$$,"224 Tanjong Katong Road, 437014",Restaurant,Asian • Malaysian
+https://www.hungrygowhere.com/singapore/hanuman-thai-cuisine-commonwealth-queenstown/,Hanuman Thai Cuisine,$$,"#01-727, 117 Commonwealth Drive, 140117",Restaurant,Thai
+https://www.hungrygowhere.com/singapore/sabar-orchard-river-valley/,Sabar,$,"Level 04 Japan Food Town Wisma Atria, 435 Orchard Road, 238877",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/chicken-up-sengkang-hougang-buangkok/,Chicken Up (Buangkok),$,"#01-13 (Unit No.2A), 277C Compassvale Link, 543277",Restaurant,Asian • Korean
+https://www.hungrygowhere.com/singapore/vatos-urban-tacos-bugis/,Vatos Urban Tacos,$$$,"Beach Centre, 36 Beach Road, 189677",Restaurant,Korean • Mexican
+https://www.hungrygowhere.com/singapore/coriander-leaf-grill-tanjong-pagar-raffles-place/,Coriander Leaf Grill,$$$$,"12 Ann Siang Road, 069692",Restaurant,Asian • Beer • Drinks • Steak and Grills • Wine
+https://www.hungrygowhere.com/singapore/ding-dong-tanjong-pagar-raffles-place-/,Ding Dong,$$$$,"#01-02, 115 Amoy Street, 069935",Bar or Pub,Asian • Fusion • Vietnamese
+https://www.hungrygowhere.com/singapore/gelatissimo_singapore_flyer/,Gelatissimo (The Flyer),$,"#01-14 Singapore Flyer, 30 Raffles Ave, 039803",Cafe,European • Italian • Western
+https://www.hungrygowhere.com/singapore/sabio-by-the-sea-sentosa/,Sabio by the Sea,$$$,"#01-02 Sentosa Cove Quayside Isle, 31 Ocean Way, 098375",Restaurant,European • Mediterranean • Seafood • Spanish • Western
+https://www.hungrygowhere.com/singapore/pince-pints-cantonment-tanjong-pagar-chinatown/,Pince & Pints (Duxton),$$$,"32-33 Duxton Road, 089497",Bar or Pub,American • Beer • Cocktails • Seafood • Western
+https://www.hungrygowhere.com/singapore/bar-a-thym-tanjong-pagar-raffles-place/,Bar-A-Thym,$$$$,"18 Gemmill Lane, 069255",Restaurant,European • French • Mediterranean • Western
+https://www.hungrygowhere.com/singapore/collin-s-grille-bento-ang-mo-kio/,COLLIN'S® (Jubilee Square),$,"#01-07 to 10 Jubilee Square, 61 Ang Mo Kio Avenue 8, 569814",Restaurant,Western
+https://www.hungrygowhere.com/singapore/skai/,SKAI,$$$,"Level 70 Swissotel The Stamford, 2 Stamford Road, 178882",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/Charlie_s_Tapas__Grill___Bar/,Charlie's Restaurant & Bar,$$,"Boat Quay, 32 Boat Quay, 049821",Bar or Pub,Beer • European • Western • Wine
+https://www.hungrygowhere.com/singapore/jai-siam-orchard-river-valley/,Jai Siam (Dhoby X'Change),$,"#B1-12 Dhoby X'Change, 11 Orchard Road, 238826",Restaurant,Asian • Halal • Thai
+https://www.hungrygowhere.com/singapore/mookata-bugis/,Mookata (Bugis Junction),$$,"#02-53 Bugis Junction, 200 Victoria Street, 188021",Restaurant,Asian • Chinese • Indochinese • Steamboat • Thai
+https://www.hungrygowhere.com/singapore/tcc_the_connoisseur_concerto_german_centre/,TCC - The Connoisseur Concerto (German Centre),$$,"#01-80 German Centre, 25 International Business Park, 609916",Cafe,American • Desserts • Western
+https://www.hungrygowhere.com/singapore/kintamani_indonesian_restaurant/,Kintamani Indonesian Restaurant,$$,"3F Furama Riverfront Singapore, 405 Havelock Road, 169633",Restaurant,Asian • Halal
+https://www.hungrygowhere.com/singapore/arteastiq-boutique-tea-house-orchard-river-valley-03-70-72/,Arteastiq Bistro & Bar (Plaza Singapura),$$,"#03-70/72 Plaza Singapura, 68 Orchard Road, 238839",Cafe,Western
+https://www.hungrygowhere.com/singapore/Urban_Beach_Bar/,Urban Beach Bar,$$,"#01-16 Singapore Flyer, 30 Raffles Avenue, 039803",Bar or Pub,Beer • European • Italian • Pizza • Western • Wine
+https://www.hungrygowhere.com/singapore/platypus-kitchen-bugis-junction/,Platypus Kitchen,$$,"#01-90/91 Bugis Junction, 200 Victoria Street, 188021",Restaurant,European • Italian • Mediterranean • Western
+https://www.hungrygowhere.com/singapore/the-happy-harvester-orchard-river-valley/,The Happy Harvester,$,"#B1-01 Comcentre III, 31C Exeter Road, 239734",Kiosk or Stall,
+https://www.hungrygowhere.com/singapore/long-jiang-woodlands/,Long Jiang,,"Singapore Racecourse, 1 Turf Club Avenue, 738078",Confectionery or Bakery,
+https://www.hungrygowhere.com/singapore/flavours-at-zhongshan-park-balestier-whampoa-boon-keng/,Flavours At Zhongshan Park,$$,"Level 1 Ramada Singapore, 16 Ah Hood Road, 329983",Restaurant,Asian • Chinese • Desserts • Hainanese
+https://www.hungrygowhere.com/singapore/the-auld-alliance-bugis/,The Auld Alliance,$$$,"#02-02A Rendezvous Hotel Singapore, 9 Bras Basah Road, 189559",Bar or Pub,Beer • English • Japanese • Western • Wine
+https://www.hungrygowhere.com/singapore/Kohinoor_Palace/,Kohinoor Palace,$,"3rd Level Singapore Khalsa Association, 2 Tessensohn Road, 217646",Restaurant,Indian • North Indian
+https://www.hungrygowhere.com/singapore/drink-culture-cantonment-tanjong-pagar-chinatown/,Drink Culture,$$,"51 Kreta Ayer Road, 089008",Bar or Pub,Beer • Drinks • Fusion • Western • Wine
+https://www.hungrygowhere.com/singapore/The_Manhattan_Fish_Market__Changi_City_Point_/,The Manhattan Fish Market (Changi City Point),$$,"#01-39/40 Changi City Point, 5 Changi Business Park Central 1, 486038",Restaurant,American • Halal • Seafood • Western
+https://www.hungrygowhere.com/singapore/chapter-55-tiong-bahru-outram/,Chapter 55,$$,"#01-37 Tiong Bahru Estate, 55 Tiong Bahru Road, 160055",Cafe,Desserts
+https://www.hungrygowhere.com/singapore/fratini-la-trattoria-bukit-timah/,Fratini La Trattoria,$$$$,"Hillcrest Park, 10 Greenwood Avenue, 289201",Restaurant,European • Italian
+https://www.hungrygowhere.com/singapore/new_fut_kai_vegetarian_restaurant/,New Fut Kai Vegetarian Restaurant,$$,"282 Jalan Besar, 208945",Restaurant,Asian • Chinese • Vegetarian
+https://www.hungrygowhere.com/singapore/beyond-pancakes-suntec-city-hall/,Beyond Pancakes (Halal),$,"#03-131A Marina Square Mall, 6 Raffles Boulevard, 039594",Restaurant,Drinks • European • French • Italian • Western
+https://www.hungrygowhere.com/singapore/kpo_cafe_bar/,KPO Cafe Bar,$$,"Killiney Road Post Office, 1 Killiney Road, 239518",Bar or Pub,Desserts • Fusion • Pizza • Snacks • Western
+https://www.hungrygowhere.com/singapore/kinara_contemporary_indian_cuisine_east_coast/,Kinara (Upper East Coast Rd),$$,"164 Upper East Coast Road, 455265",Restaurant,Asian • Indian • North Indian • Vegetarian
+https://www.hungrygowhere.com/singapore/korean-fusion-bbq-jalan-besar-lavender/,Korean Fusion BBQ (Little India Conservation Area),$$,"Little India Conservation Area, 5 Dunlop Street, 209335",Restaurant,Asian • Fusion • Korean
+https://www.hungrygowhere.com/singapore/aglio_olio_china_square/,Aglio Olio (China Square Central),$,"#01-40/41 China Square Central, 3 Pickering Street, 048660",Restaurant,Asian • European • Fusion • Italian • Western
+https://www.hungrygowhere.com/singapore/tcc_the_connoisseur_concerto_velocity_novena_square/,TCC - The Connoisseur Concerto (Novena Square),$,"#01-56/58 Novena Square, 238 Thomson Road, 307683",Cafe,American • Desserts • Western
+https://www.hungrygowhere.com/singapore/fifth_season/,Fifth Season Tangra Chinese Restaurant,$$,"28 Race Course Road, 218550",Restaurant,Chinese • Drinks • Fusion • Halal • Indian
+https://www.hungrygowhere.com/singapore/flor-patisserie-cantonment-tanjong-pagar-chinatown/,Flor Patisserie (Duxton Hill),$,"#01-01, 2 Duxton Hill, 089588",Cafe,Asian • Desserts • Japanese • Western
+https://www.hungrygowhere.com/singapore/d9-cakery-orchard-river-valley/,D9 Cakery,,"Hilton Singapore, 581 Orchard Road, 238883",Confectionery or Bakery,Desserts
+https://www.hungrygowhere.com/singapore/ginger-thai-scotts-road-newton/,Ginger Thai,$$$,"37 Cuppage Road, 229461",Restaurant,Thai
+https://www.hungrygowhere.com/singapore/hanamco/,Hanamco,$,"#01-2045, 5 Changi Village Road, 500005",Bar or Pub,Asian • Beer • English • European • Western
+https://www.hungrygowhere.com/singapore/the-connoisseur-concerto-raffles-place-boat-quay/,TCC - The Connoisseur Concerto (Circular Road),$$,"Boat Quay Conservation Area, 51 Circular Road, 049406",Cafe,American • Desserts • Western
+https://www.hungrygowhere.com/singapore/bebek-goreng-pak-ndut-tampines-simei/,Bebek Goreng Pak Ndut (Tampines One),,"#01-58 Tampines One, 10 Tampines Central 1, 529536",Cafe,Asian • Malay / Indonesian
+https://www.hungrygowhere.com/singapore/the-palmary-little-india/,The Palmary,,"142 Owen Road, 218941",Bar or Pub,Asian • Drinks • European • Fusion • Western
+https://www.hungrygowhere.com/singapore/daily-affairs-scotts-road-newton/,Daily Affairs,$,"#01-02 Cairnhill Community Club, 1 Anthony Road, 229944",Cafe,Asian • Western
+https://www.hungrygowhere.com/singapore/yummo-chow-bugis/,Yummo Chow,,"13 Purvis Street, 188592",Cafe,Drinks • Western
+https://www.hungrygowhere.com/singapore/wah-kungfu-chinatown/,Wah! Kungfu,$$$,"76 Pagoda Street, 059235",Restaurant,Barbecue • Chinese
+https://www.hungrygowhere.com/singapore/savanh_bistro_lounge_restaurant/,Savanh Bistro & Lounge,$$$,"1st Floor, 47 Club Street, 069424",Bar or Pub,Asian • Chinese • Indochinese • Wine
+https://www.hungrygowhere.com/singapore/ciao-italian-bistro-bar-bugis/,Ciao@Italian Risto Bar,$$,"#01-01, 8 Haji Lane, 189201",Restaurant,Italian
+https://www.hungrygowhere.com/singapore/choupinette/,Choupinette,$$,"#01-01, 607 Bukit Timah Road, 269708",Bar or Pub,European • French • Western • Wine
+https://www.hungrygowhere.com/singapore/oppa-bbq-bukit-panjang/,OPPA BBQ W,$$,"#01-21/22 Junction 10, 1 Woodlands Road, 677899",Restaurant,Korean
+https://www.hungrygowhere.com/singapore/georges-madbar-grill-punggol/,Georges By the Bay @Punggol,$,"#02-12 The Punggol Settlement, 3 Punggol Point Road, 828694",Bar or Pub,American • Beer • Western
+https://www.hungrygowhere.com/singapore/the-green-oven-alley-on-25-bugis/,The Green Oven @ Alley on 25,,"Level 25 Andaz Singapore, 5 Fraser Street, 189354",Restaurant,Fusion • International
+https://www.hungrygowhere.com/singapore/ottoman-kebab-grill-pasir-panjang-science-park-kent-ridge/,Ottoman Kebab & Grill,$$,"#01-34 Savourworld Singapore, 2 Science Park Drive, 118222",Restaurant,Mediterranean • Middle Eastern • Turkish
+https://www.hungrygowhere.com/singapore/tandoor_north_indian_restaurant/,Tandoor,$$$,"#B1 Holiday Inn Singapore Orchard City Centre, 11 Cavenagh Road, 229616",Restaurant,Asian • Indian • North Indian
+https://www.hungrygowhere.com/singapore/tuxedo-cafe-carlton-city-hotel-anson-tanjong-pagar/,Tuxedo Cafe @ Carlton City Hotel (Carlton City Hotel),$,"Lobby Level Carlton City Hotel Singapore, 1 Gopeng Street, 078862",Cafe,Desserts • European • French • Western
+https://www.hungrygowhere.com/singapore/ochazuke-tea-rice/,Ochazuke Tea Rice,$,"#03-102 Singapore Post Centre, 10 Eunos Road 8, 408600",Kiosk or Stall,Japanese
+https://www.hungrygowhere.com/singapore/the_bar_the_regent_singapore/,The Bar @ Regent Hotel,$,"GF The Regent Singapore, 1 Cuscaden Road, 249715",Bar or Pub,Beer • Western • Wine
+https://www.hungrygowhere.com/singapore/-orchard-river-valley/,Da Shi Jia,$,"89 Killiney Road, 239534",Restaurant,Asian • Chinese • Local
+https://www.hungrygowhere.com/singapore/hattendo-singapore-anson-tanjong-pagar/,Hattendo Singapore,$,"#01-05 Tanjong Pagar Centre, 7 Wallich Street, 078884",Cafe,Japanese • Snacks • Western
+https://www.hungrygowhere.com/singapore/1-tyrwhitt-bistro-bar-cafe-jalan-besar-lavender/,1 Tyrwhitt Bistro Bar Cafe,$$,"1 Tyrwhitt Road, 207522",Bar or Pub,Drinks • European • Italian • Pizza • Western
+https://www.hungrygowhere.com/singapore/seven-ate-jalan-besar-lavender/,Seven & Ate,$$,"78 Horne Road, 209078",Restaurant,Drinks • Western
+https://www.hungrygowhere.com/singapore/sumiya-suntec-city-hall/,Sumiya (Suntec City Mall),$$$,"#03-332 / 333 Suntec City North Wing Suntec North Wing, 3 Temasek Boulevard, 038983",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/the-cheese-chocolate-bar-marina-south/,The Cheese & Chocolate Bar,,"Level 55, Tower 2 Marina Bay Sands Singapore, 1 Bayfront Avenue, 018971",Cafe,Desserts • Western
+https://www.hungrygowhere.com/singapore/dolcetto-by-basilico/,Dolcetto by Basilico,$,"Lobby Level The Regent Singapore, 1 Cuscaden Road, 249715",Cafe,European • Italian • Western
+https://www.hungrygowhere.com/singapore/old-geylang-geylang-stadium-old-airport/,Old Geylang,,"Highpoint Block 6 Singapore Badminton Hall, 1 Lorong 23 Geylang, 388352",Restaurant,Asian • Chinese • Seafood
+https://www.hungrygowhere.com/singapore/kuroya-sukiyaki-orchard-river-valley/,Kuroya Sukiyaki,$$$$,"#01-03, 33 Mohamed Sultan Road, 238977",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/highball-tiong-bahru-outram/,Highball,$$,"#01-01 Blair Plain Conservation Area, 79 Kampong Bahru Road, 169377",Bar or Pub,Beer • Cocktails • Drinks • Japanese • Wine
+https://www.hungrygowhere.com/singapore/1345-mookata-bukit-batok/,1345 Mookata,,"#01-01 The Elitist, 25 Bukit Batok Crescent, 658066",Restaurant,Asian • Barbecue • Indochinese • Steamboat • Thai
+https://www.hungrygowhere.com/singapore/dian-xiao-er-suntec-city-hall/,Dian Xiao Er (Marina Square),$$,"#02-203/204 Marina Square, 6 Raffles Boulevard, 039594",Restaurant,Asian • Chinese
+https://www.hungrygowhere.com/singapore/tapas-26/,Tapas 26,$$$$,"26B Dempsey Road, 247693",Restaurant,Spanish • Tapas
+https://www.hungrygowhere.com/singapore/upin-hot-pot/,Upin Hot Pot (West Coast Plaza),$$,"#01-02 West Coast Plaza, 154 West Coast Road, 127371",Restaurant,Chinese
+https://www.hungrygowhere.com/singapore/origin-grill-bar/,Origin Grill & Bar,,"Lobby Level Tower Wing Shangri-la Hotel, 22 Orange Grove Road, 258350",Restaurant,International
+https://www.hungrygowhere.com/singapore/harry_s_harbourfront_centre/,Harry's (Harbourfront Centre),$$$,"#01-64 Harbourfront Centre, 1 Maritime Square, 099253",Bar or Pub,Beer • Cocktails • Drinks • Western
+https://www.hungrygowhere.com/singapore/sixty6-bugis/,+Sixty6,$,"#01-03 Campus 1a, 1A Short Street, 188210",Restaurant,Asian • Thai
+https://www.hungrygowhere.com/singapore/Boulevard_Bayfront__Marina_Bay_Link_Mall_/,Boulevard Bayfront,$$,"#01-02 Marina Bay Financial Centre, 8 Marina Boulevard, 018981",Bar or Pub,Beer • European • Pizza • Western • Wine
+https://www.hungrygowhere.com/singapore/oso-ristorante/,OSO Ristorante,$$$$,"#27-01 Oasia Hotel Downtown, 100 Peck Seah Street, 079333",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/chair-lao-ban-thomson-sin-ming-bishan/,Chair Lao Ban,$$,"Sembawang Hills Estate, 134 Casuarina Road, 579522",Restaurant,Chinese • Hong Kong
+https://www.hungrygowhere.com/singapore/tsukada-nojo-chinatown/,Tsukada Nojo (Chinatown Point),$$,"#02-37 Chinatown Point, 133 New Bridge Road, 059413",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/xu-ting-raffles-place-boat-quay/,Xu Ting,$,"#01-01 Far East Square, 19 China Street, 049561",Restaurant,Chinese • Korean
+https://www.hungrygowhere.com/singapore/acqua-e-farina-bukit-panjang/,Acqua e Farina,$$$,"The Rail Mall, 400 Upper Bukit Timah Road, 678050",Restaurant,European • Italian • Pizza • Wine
+https://www.hungrygowhere.com/singapore/blend-it-up-hougang-tai-seng-upper-serangoon/,Blend It Up,$$,"Quemoy Building, 325 Upper Paya Lebar Road, 534946",Restaurant,Desserts • Italian • Pizza • Western • Wine
+https://www.hungrygowhere.com/singapore/dian-xiao-er-jurong-west-boon-lay/,Dian Xiao Er (Jurong Point),$$,"#B1-57 Jurong Point Shopping Centre, 1 Jurong West Central 2, 648886",Restaurant,Asian • Chinese
+https://www.hungrygowhere.com/singapore/mon-bijou-orchard-river-valley/,Mon Bijou,$,"#01-19/20 Claymore Connect, 442 Orchard Road, 238879",Cafe,European • French • Western
+https://www.hungrygowhere.com/singapore/cibo-italiano-tanglin-dempsey-orchard/,CiBO italiano,$$$,"#01-01 Loft @ Nathan, 428 River Valley Road, 248327",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/dim-sum-haus-jalan-besar-lavender/,Dim Sum Haus,$,"Little India Conservation Area, 57 Jalan Besar, 208809",Restaurant,Dim Sum • Hong Kong
+https://www.hungrygowhere.com/singapore/thai-kha/,Thai Kha,$,"#01-01, 2 Havelock Road, 059763",Restaurant,Asian • Thai
+https://www.hungrygowhere.com/singapore/Java___Marriott_Singapore_/,Java+ (Marriott Singapore),$,"Lobby Level Singapore Marriott Hotel, 320 Orchard Road, 238865",Cafe,Desserts • Western
+https://www.hungrygowhere.com/singapore/song-garden-bugis/,Song Garden,$$$$,"#02-01 Mercure Singapore Bugis, 122 Middle Road, 188973",Restaurant,Cantonese • Chinese
+https://www.hungrygowhere.com/singapore/the_mountbatten_room/,The Mountbatten Room,$$$,"Singapore Polo Club, 80 Mount Pleasant Road, 298334",Bar or Pub,Beer • European • French • Western • Wine
+https://www.hungrygowhere.com/singapore/plancha-lah-alley-on-25/,Plancha'Lah! @ Alley on 25,,"Level 25 Andaz Singapore, 5 Fraser Street, 189354",Restaurant,International
+https://www.hungrygowhere.com/singapore/smoke-pepper-alley-on-25-bugis/,Smoke & Pepper @ Alley on 25,$$,"Level 25 Andaz Singapore, 5 Fraser Street, 189354",Restaurant,International
+https://www.hungrygowhere.com/singapore/jaggi_s_northern_indian_cuisine_race_course_road/,Jaggi's Northern Indian Cuisine (Race Course Rd),$,"34/36 Race Course Road, 218553",Restaurant,Asian • Indian • North Indian • South Indian • Vegetarian
+https://www.hungrygowhere.com/singapore/auntie-s-wok-steam-alley-on-25/,Auntie's Wok & Steam @ Alley on 25,,"Level 25 Andaz Singapore, 5 Fraser Street, 189354",Restaurant,International
+https://www.hungrygowhere.com/singapore/tekong-seafood-restaurant/,Tekong Seafood Restaurant,$$,"#01-03, 6 Changi Village Road, 509907",Restaurant,Chinese • Seafood
+https://www.hungrygowhere.com/singapore/lantern/,Lantern,$$$,"The Fullerton Bay Hotel, 80 Collyer Quay, 049326",Bar or Pub,European • Italian • Western
+https://www.hungrygowhere.com/singapore/skirt-w-hotel-sentosa-cove/,SKIRT,$$$$,"Sentosa Cove W Singapore, 21 Ocean Way, 098374",Restaurant,American • European • Latin American • Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/mondo_mio/,Mondo Mio,$$,"#01-02S Riverside View Condominium, 30 Robertson Quay, 238251",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/king_s_laksa_steamboat/,King's Laksa Steamboat,$$,"17 Teck Chye Terrace, 545724",Restaurant,Asian • Chinese • Local • Sichuan • Steamboat
+https://www.hungrygowhere.com/singapore/nara_japanese_restaurant_goldhill_centre/,Nara Japanese Restaurant,$$$,"Goldhill Shopping Centre, 167 Thomson Road, 307619",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/casa-tartufo-ristorante-tanjong-pagar-raffles-place/,Casa Tartufo,$$$$,"The Scarlet Hotel, 33 Erskine Road, 069333",Bar or Pub,Desserts • European • Italian • Western • Wine
+https://www.hungrygowhere.com/singapore/food-for-thought-city-hall-high-street-clarke-quay/,Food For Thought (National Museum of Singapore),$$,"#01-04/05 National Museum of Singapore, 93 Stamford Road, 178897",Bar or Pub,Asian • Beer • Fusion • Western • Wine
+https://www.hungrygowhere.com/singapore/jin_long_seafood_restaurant/,Jing Long Seafood Restaurant,$$,"#01-152, 412 Bedok North Avenue 2, 460412",Restaurant,Asian • Chinese
+https://www.hungrygowhere.com/singapore/open-farm-community-tanglin-dempsey-orchard/,Open Farm Community,$$$$,"130E Minden Road, 248819",Restaurant,International
+https://www.hungrygowhere.com/singapore/House_of_Indocafe/,INDOCAFÉ - the white house,$$$,"35/35A Scotts Road, 228227",Restaurant,Asian • Nonya / Peranakan
+https://www.hungrygowhere.com/singapore/cucina-italian-restaurant-bendemeer-kallang-boon-keng/,Cucina Restaurant and Catering (Aperia),$$,"#02-10 Aperia, 12 Kallang Avenue, 339511",Restaurant,Asian • Fusion • Halal • Italian • Western
+https://www.hungrygowhere.com/singapore/sushi-jiro/,Sushi Jiro,$$$$,"#04-600 Marina Mandarin Hotel, 6 Raffles Boulevard, 039594",Restaurant,Drinks • Japanese
+https://www.hungrygowhere.com/singapore/epiphyte-sg-cantonment-tanjong-pagar-chinatown/,Epiphyte,$$,"Tanjong Pagar Conservation Area, 47 Neil Road, 088827",Restaurant,Asian
+https://www.hungrygowhere.com/singapore/grains-hops-orchard-river-valley/,Grains & Hops,,"Level 10 YOTEL Singapore, 366 Orchard Road, 238904",Bar or Pub,Cocktails • Drinks • International • Vegetarian
+https://www.hungrygowhere.com/singapore/spices_cafe/,Spices Cafe,$$,"Concorde Hotel Singapore, 100 Orchard Road, 238840",Cafe,Asian • Chinese • European • French • Fusion • International • Nonya / Peranakan • Seafood • Western
+https://www.hungrygowhere.com/singapore/shinji-by-kanesaka-tanglin-dempsey-orchard/,Shinji By Kanesaka (St. Regis),$$$$,"#01-00 The St. Regis Singapore, 29 Tanglin Road, 247911",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/boulevard-asia-square-marina-south/,Boulevard Asia Square,$$$$,"#01-04/05 Asia Square Tower 2, 12 Marina View, 018961",Bar or Pub,Asian • Local • Western
+https://www.hungrygowhere.com/singapore/picotin-express-bukit-timah/,Picotin Express (Bukit Timah),$$$,"60 Fairways Drive, 286966",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/yellow-cab-pizza-co-suntec-city-hall-b1-01-02/,Yellow Cab Pizza Co.,$,"#B1-01/02 Citylink Mall, 1 Raffles Link, 039393",Cafe,American • Beer • Drinks • Pizza • Snacks
+https://www.hungrygowhere.com/singapore/nook-cranny-thomson-sin-ming-bishan/,Nook & Cranny,$,"#01-03 Thomson V One, 9 Sin Ming Road, 575630",Cafe,Desserts • Drinks • Western
+https://www.hungrygowhere.com/singapore/indo-chili-anson-tanjong-pagar/,IndoChili (Tanjong Pagar Centre),$$,"#B1-03, 7 Wallich Street, 078884",Restaurant,Halal • Indonesian
+https://www.hungrygowhere.com/singapore/hi-so-tanjong-pagar-raffles-place/,HI-SO Rooftop Pool Bar,$$$,"Rooftop SO Sofitel Singapore, 35 Robinson Road, 068876",Bar or Pub,Beer • Cocktails • Drinks • Juices • Wine
+https://www.hungrygowhere.com/singapore/food-canopy-cluny-road-orchard-bukit-timah/,Food Canopy,$,"Singapore Botanic Gardens, 1J Cluny Road, 259569",Food Court or Canteen,Asian • Indian • Indonesian • Malay • Malay / Indonesian • Malaysian • Western
+https://www.hungrygowhere.com/singapore/l-clair-by-sarah-michelle-orchard-river-valley/,L'ÉCLAIR by Sarah Michelle,$$,"#01-28 Singapore Shopping Centre, 190 Clemenceau Avenue, 239924",Restaurant,European • French • Western
+https://www.hungrygowhere.com/singapore/928_yishun_laksa/,928 Yishun Laksa,$,"#01-155, 928 Yishun Central 1, 760928",Kiosk or Stall,Asian • Local • Nonya / Peranakan
+https://www.hungrygowhere.com/singapore/casa_verde_botanic_gardens/,Casa Verde (Botanic Gardens),$$,"Singapore Botanic Gardens Visitor Centre, 1 Cluny Road, 259569",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/Seafood_Paradise_Restaurant__Airport_T2_/,"Seafood Paradise (Singapore Changi Airport, Terminal 2)",,"#036-059 Singapore Changi Airport, Terminal 2, 60 Airport Boulevard, 819643",Restaurant,Asian • Chinese • Seafood
+https://www.hungrygowhere.com/singapore/Food_On_Fire/,Food on Fire,$,"#01-07 Capital Square 3, 25 Church Street, 049482",Bar or Pub,Asian • Beer • Indian • North Indian
+https://www.hungrygowhere.com/singapore/hai-di-lao-city-hall-high-street-clarke-quay/,Hai Di Lao (Clarke Quay),$$$,"#02-04 Clarke Quay, 3D River Valley Road, 179023",Restaurant,Asian • Chinese • Seafood • Sichuan • Steamboat
+https://www.hungrygowhere.com/singapore/baker-cook-bugis/,Baker & Cook (InterContinental Singapore),$,"#01-72A Intercontinental Singapore, 80 Middle Road, 188966",Cafe,European • Western
+https://www.hungrygowhere.com/singapore/man-man-unagi-by-teppei-san-at-yamato-izakaya/,Man Man Unagi by Teppei San at Yamato Izakaya,$$,"#01-92 Oxley Bizhub, 65 Ubi Road 1, 408729",Restaurant,Japanese
+https://www.hungrygowhere.com/singapore/moa-tiki-new-zealand-bar-grill-bugis/,Moa Tiki New Zealand Bar & Grill @ Chijmes,$$,"#01-31 Chijmes, 30 Victoria Street, 187996",Bar or Pub,Western
+https://www.hungrygowhere.com/singapore/tcc_the_connoisseur_concerto_the_pier_robertson/,TCC - The Connoisseur Concerto (The Pier @ Robertson),$,"#01-01/02 The Pier At Robertson, 80 Mohamed Sultan Road, 239013",Cafe,American • Desserts • Western
+https://www.hungrygowhere.com/singapore/upper-place-tiong-bahru-outram/,Upper Place,$$,"Rooftop Wangz Hotel, 231 Outram Road, 169040",Restaurant,Modern European
+https://www.hungrygowhere.com/singapore/tcc_the_connoisseur_concerto_great_world_city/,TCC - The Connoisseur Concerto (Great World City),$,"#01-29 Great World City, 1 Kim Seng Promenade, 237994",Cafe,American • Desserts • Western
+https://www.hungrygowhere.com/singapore/texas_chicken_singapore_expo/,Texas Chicken (Singapore Expo),$,"#01-42 Singapore Expo, 1 Expo Drive, 486150",Fast Food Place,American • Halal • Western
+https://www.hungrygowhere.com/singapore/vanilla_pod_by_chef_peter_company/,Vanilla Pod Restaurant and Bar,$$$,"Singapore Orchids Garden, 200 Mandai Lake Road, 729827",Bar or Pub,European • Western • Wine
+https://www.hungrygowhere.com/singapore/violet-oon-s-kitchen-bukit-timah-holland/,Violet Oon Singapore,$$$,"881 Bukit Timah Road, 279893",Restaurant,Asian • Local • Nonya / Peranakan • Singaporean
+https://www.hungrygowhere.com/singapore/brewerkz_bar_grill_indoor_stadium/,Brewerkz (Indoor Stadium),$$,"#01-06/07 Singapore Indoor Stadium, 2 Stadium Walk, 397691",Bar or Pub,American • Beer • Western • Wine
+https://www.hungrygowhere.com/singapore/food-capital-tiong-bahru-outram-/,Food Capital,$$$,"Grand Copthorne Waterfront Hotel Singapore, 392 Havelock Road, 169663",Restaurant,International
+https://www.hungrygowhere.com/singapore/the-manhattan-fish-market-suntec-city-hall/,The Manhattan Fish Market (Suntec City Mall),$$,"#B1-134 Suntec City Mall, 3 Temasek Boulevard, 038983",Restaurant,American • Halal • Seafood • Western
+https://www.hungrygowhere.com/singapore/chuan_yang_ji_mutton_soup_steamboat/,Chuan Yang Ji Mutton Soup Steamboat (Balestier),$$,"#01-434 Public Mansions, 432 Balestier Road, 329813",Restaurant,Chinese • Local • Singaporean • Steamboat
+https://www.hungrygowhere.com/singapore/fish_co_jurong_point/,Fish & Co. (Jurong Point),$,"#02-20E Jurong Point Shopping Centre, 1 Jurong West Central 2, 648886",Fast Food Place,Fusion • Halal • Western
+https://www.hungrygowhere.com/singapore/nalan-restaurant-city-hall-high-street-clarke-quay/,Nalan Restaurant (Capitol Piazza),$,"#B2-54 Capitol Piazza, 13 Stamford Road, 178905",Restaurant,Asian • Indian • North Indian • South Indian • Vegetarian
+https://www.hungrygowhere.com/singapore/trattoria_operetta/,Trattoria L'Operetta,$$$,"244 Tanjong Katong, 437032",Restaurant,European • Italian • Pizza • Western
+https://www.hungrygowhere.com/singapore/streats_hong_kong_cafe_city_square_mall/,Streats (City Square),$,"#01-01 City Square Mall, 180 Kitchener Road, 208539",Cafe,Halal • Hong Kong
+https://www.hungrygowhere.com/singapore/wing-zone-bugis/,Wing Zone (Bugis+),$,"#04-02 Bugis+, 201 Victoria Street, 188067",Restaurant,American • Halal • Western
+https://www.hungrygowhere.com/singapore/white-restaurant-sembawang-sembawang/,White Restaurant (Sembawang Garden Arcade),$,"Sembawang Garden Arcade, 22 Jalan Tampang, 758966",Restaurant,Asian
+https://www.hungrygowhere.com/singapore/wild_olives/,Wild Olives,$,"Changi Airport Terminal 2, 60 Airport Boulevard, 819643",Kiosk or Stall,European • Italian • Western
+https://www.hungrygowhere.com/singapore/house-of-seafood-punggol/,House of Seafood (Punggol Settlement),$$$,"#01-01/02 The Punggol Settlement, 3 Punggol Point Road, 828694",Bar or Pub,Asian • Beer • Chinese • Seafood
+https://www.hungrygowhere.com/singapore/sin_ming_roti_prata/,Sin Ming Roti Prata,$,"#01-51 Jin Fa Kopitiam, 24 Sin Ming Road, 570024",Kiosk or Stall,Asian • Indian • North Indian • South Indian
+https://www.hungrygowhere.com/singapore/meat-n-chill-ghim-moh-holland/,Meat n' Chill,$$,"#01-04 Sixth Avenue Centre, 805 Bukit Timah Road, 279883",Restaurant,Western
+https://www.hungrygowhere.com/singapore/kanpai-izakaya-bar/,Kanpai Izakaya & Bar @ Holland Village,$,"40 Lorong Mambong, 277695",Bar or Pub,Beer • Drinks • Japanese • Wine
+https://www.hungrygowhere.com/singapore/patro-s-sports-bar-restauran-marine-parade/,Patro's Sports Bar & Restaurant (East Coast Parkway),$$,"#01-18/19, 920 East Coast Parkway, 449875",Restaurant,Latin American • Mexican
+https://www.hungrygowhere.com/singapore/cocobolo_poolside_bar_grill/,Cocobolo Poolside Bar + Grill,$$$,"#02-00 Park Hotel Clarke Quay, 1 Unity Street, 237983",Restaurant,Western
+https://www.hungrygowhere.com/singapore/honguo-serangoon/,Honguo (Nex),$,"#B1-75 Nex, 23 Serangoon Central, 556083",Restaurant,Chinese • Yunnan
+https://www.hungrygowhere.com/singapore/verdure-cafe-upper-thomson-springleaf-01-02/,Verdure Cafe,$$,"#01-02, 1218 Upper Thomson Road, 787136",Cafe,Western
+https://www.hungrygowhere.com/singapore/chang-korean-charcoal-bbq-tanglin-dempsey-orchard/,Chang Korean Charcoal BBQ,$$$$,"#01-01, 71 Loewen Road, 248846",Restaurant,Asian • Korean
+https://www.hungrygowhere.com/singapore/times-square-joo-chiat-katong-east-coast-01-05-06-07/,Times Square Bar & Grill,$$,"#01-05/06/07 Katong Square, 86 East Coast Road, 428788",Bar or Pub,Beer • Drinks • International • Wine
+https://www.hungrygowhere.com/singapore/the-square-novotel-clarke-quay-city-hall-high-street-clarke-quay/,The Square @ Novotel Clarke Quay,$$$,"#07-00 Liang Court, 177 River Valley Road, 179031",Restaurant,Asian • Indochinese
+https://www.hungrygowhere.com/singapore/da-paolo-bistro-bar-dover-buona-vista-ayer-rajah/,Da Paolo BistroBar,$$$,"Rochester Park, 3 Rochester Park, 139214",Bar or Pub,European • Italian • Pizza • Vegetarian • Western
+https://www.hungrygowhere.com/singapore/Drips_Bakery_Cafe/,Drips Bakery Cafe,$,"#01-05, 82 Tiong Poh Road, 160082",Cafe,American • Desserts • Western
+https://www.hungrygowhere.com/singapore/harry-s-pasir-panjang-science-park-kent-ridge/,Harry's (Mapletree Business City),,"#02-14 Mapletree Business City, 40 Pasir Panjang Road, 117383",Bar or Pub,Beer • Cocktails • Drinks • Western
+https://www.hungrygowhere.com/singapore/muchos-plaza-singapura-dhoby-ghaut/,Muchos Modern Mexican (Plaza Singapura),$$,"#01-34 Plaza Singapura, 68 Orchard Road, 238839",Bar or Pub,Mexican
+https://www.hungrygowhere.com/singapore/xiao-long-kan-hotpot-bugis/,Xiao Long Kan Hotpot (Bugis),$$,"#02-54 Bugis Junction, 200 Victoria Street, 188021",Restaurant,Chinese • Sichuan • Steamboat
+https://www.hungrygowhere.com/singapore/silk_road_restaurant/,Silk Road Restaurant,$$$,"#02-00 Amara Singapore Hotel, 165 Tanjong Pagar Road, 088539",Restaurant,Asian • Beijing • Chinese • Sichuan
+https://www.hungrygowhere.com/singapore/jack_s_place_steak_house_restaurant_ang_mo_kio_central/,Jack's Place Restaurant (Ang Mo Kio),$$,"#01-4274 Ang Mo Kio Courts, 730 Ang Mo Kio Avenue 6, 560730",Restaurant,American • Steak and Grills
+https://www.hungrygowhere.com/singapore/house-of-seafood-hougang-tai-seng-upper-serangoon/,House of Seafood (Serangoon Shopping Centre),$$$,"#03-33 Upper Serangoon Shopping Centre, 756 Upper Serangoon Road, 534626",Bar or Pub,Asian • Beer • Chinese • Seafood
+https://www.hungrygowhere.com/singapore/kinara_contemporary_indian_cuisine_holland_village/,Kinara (Holland Village),$$,"24 Lorong Mambong, 277683",Restaurant,Asian • Indian • North Indian • Vegetarian
+https://www.hungrygowhere.com/singapore/silver_shell_cafe_dine_on_3/,Silver Shell Cafe,$$$,"Level 3 Siloso Beach Shangri-La's Rasa Sentosa Resort & Spa, 101 Siloso Road, 098970",Restaurant,Asian • International
+https://www.hungrygowhere.com/singapore/streats_hong_kong_cafe_imm/,Streats (IMM),$,"#01-126 IMM, 2 Jurong East Street 21, 609601",Cafe,Halal • Hong Kong
+https://www.hungrygowhere.com/singapore/caf-etc-thomson-sin-ming-bishan/,Café Etc.,$$,"Yew Lian Park, 203 Upper Thomson Road, 574344",Cafe,English • European • Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/boon_lay_boneless_duck_noodle/,Heng Huat Boon Lay Boneless Duck Noodles,$,"#01-140 Boon Lay Place Food Village, 221B Boon Lay Place, 641221",Kiosk or Stall,Chinese
+https://www.hungrygowhere.com/singapore/joie-by-dozo-orchard-river-valley/,Joie by Dozo,$$$,"#12-01 Orchard Central, 181 Orchard Road, 238896",Restaurant,French • Fusion • Japanese • Vegetarian
+https://www.hungrygowhere.com/singapore/pacific-marketplace-suntec-city-hall/,Pacific Marketplace,$$,"Lobby The Pan Pacific Hotel Singapore, 7 Raffles Boulevard, 039595",Groceries & Liquor,Asian • Nonya / Peranakan • Western
+https://www.hungrygowhere.com/singapore/poolside-suntec-city-hall/,Poolside,,"Level 4 The Pan Pacific Hotel Singapore, 7 Raffles Boulevard, 039595",Bar or Pub,Asian • Western
+https://www.hungrygowhere.com/singapore/the-grumpy-bear-thomson-sin-ming-bishan/,The Grumpy Bear (Thomson Plaza),$,"#02-10 Thomson Plaza, 301 Upper Thomson Road, 574408",Cafe,Desserts • Snacks • Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/the-kitchen-table-w-hotel-sentosa-cove/,The Kitchen Table,$$$$,"Sentosa Cove W Singapore - Sentosa Cove, 21 Ocean Way, 098374",Restaurant,Asian • Cantonese • Chinese • Indian • International • Japanese • Thai • Western
+https://www.hungrygowhere.com/singapore/smbar/,SMOObar,,"#02-01, 44A Prinsep Street, 188674",Bar or Pub,Drinks
+https://www.hungrygowhere.com/singapore/the-grumpy-bear-ang-mo-kio-level-3/,The Grumpy Bear (51 @ AMK),,"Level 3 51 @ AMK, 51 Ang Mo Kio Avenue 3, 569922",Cafe,Asian • Western
+https://www.hungrygowhere.com/singapore/pool_grill/,Pool Grill,$$$,"5F Singapore Marriott Tang Plaza Hotel, 320 Orchard Road, 238865",Restaurant,International • Seafood
+https://www.hungrygowhere.com/singapore/gaia_korean_restaurant/,Gaia Korean Restaurant,$$,"17E Lorong Liput, 277731",Restaurant,Asian • Korean
+https://www.hungrygowhere.com/singapore/thyme-rochester-dover-buona-vista-ayer-rajah/,Thyme @Rochester,$$,"Rochester Park, 44 Rochester Park, 139248",Cafe,Drinks • Western
+https://www.hungrygowhere.com/singapore/foxhole-cafe-hougang-tai-seng-upper-serangoon/,Foxhole Cafe,$,"#01-18 Midtown Residences, 1189 Upper Serangoon Road, 534785",Cafe,Western
+https://www.hungrygowhere.com/singapore/tok-panjang-peranakan-cafe/,Tok Panjang Peranakan Cafe (Dorsett),$$,"#01-03 Dorsett Residences, 331 New Bridge Road, 088764",Cafe,Asian • Nonya / Peranakan
+https://www.hungrygowhere.com/singapore/suki-ya-hougang-tai-seng-upper-serangoon/,Suki-Ya (Heartland Mall Kovan),$,"Level 2 Heartland Mall-kovan, 205 Hougang Street 21, 530205",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/La_Barca/,La Barca,$$$$,"#01-21 Goodman Arts Centre, 90 Goodman Road, 439053",Restaurant,European • Italian • Western • Wine
+https://www.hungrygowhere.com/singapore/streats_hong_kong_cafe_bukit_panjang_plaza/,Streats (Bukit Panjang Plaza),$$,"#02-17 Bukit Panjang Plaza, 1 Jelebu Road, 677743",Cafe,Halal • Hong Kong
+https://www.hungrygowhere.com/singapore/maharajah_boat_quay/,Maharajah Restaurant (Boat Quay),$$,"Boat Quay, 41 Boat Quay, 049830",Restaurant,Asian • Indian • North Indian
+https://www.hungrygowhere.com/singapore/gattopardo-ristorante-di-mare-anson-tanjong-pagar/,Gattopardo Ristorante di Mare,$$$$,"34/35/36 Tras Street, 079026",Restaurant,European • Italian
+https://www.hungrygowhere.com/singapore/brotzeit-german-bier-bar-restaurant-orchard-river-valley/,Brotzeit German Bier Bar & Restaurant (313@Somerset),$$$,"#1 313 @ Somerset, 313 Orchard Road, 238895",Bar or Pub,Beer • European • German • Western • Wine
+https://www.hungrygowhere.com/singapore/Limoncello_Italian_Pizza___Grill/,Limoncello Pizza and Grill,$$$,"#01-19/20 Robertson Quay Rivergate, 95 Robertson Quay, 238256",Bar or Pub,Beer • Italian • Pizza • Wine
+https://www.hungrygowhere.com/singapore/tea_valley_downtown_east/,Tea Valley (Downtown East),$,"#01-340 Market Square @ Downtown East E!Avenue, 1 Pasir Ris Close, 519599",Cafe,Taiwanese
+https://www.hungrygowhere.com/singapore/crab-at-bay-macpherson-upper-aljunied-paya-lebar/,Crab at Bay,$,"548 Macpherson Road, 368227",Restaurant,Chinese • Seafood
+https://www.hungrygowhere.com/singapore/dusk-restaurant-bar/,Dusk Restaurant & Bar,$$$,"Level 2 Faber Peak, 109 Mount Faber Road, 099203",Restaurant,European • Wine
+https://www.hungrygowhere.com/singapore/captain-k-seafood-tower-bugis/,Captain K Seafood Tower (Middle Road),$$$,"#01-00 Midland House, 112 Middle Road, 188970",Restaurant,Asian • Korean • Seafood • Steamboat
+https://www.hungrygowhere.com/singapore/madura_s_restaurant/,Madura's Restaurant (Syed Alwi),$,"115 Syed Alwi Road, 207683",Restaurant,Asian • Halal • Indian • North Indian • South Indian
+https://www.hungrygowhere.com/singapore/koon-bak-kut-teh-bendemeer-kallang-boon-keng-/,Koon Bak Kut Teh (Lavender Street),$,"119 Lavender Street, 338731",Bar or Pub,Chinese • Drinks
+https://www.hungrygowhere.com/singapore/TCC___The_Connoisseur_Concerto__Marina_Bay_Sands_/,TCC - The Connoisseur Concerto (Marina Bay Sands),$$,"#B2-120/120A The Shoppes at Marina Bay Sands, 2 Bayfront Avenue, 018972",Cafe,American • Desserts • Western
+https://www.hungrygowhere.com/singapore/prague-microbrewery-restaurant/,Prague Microbrewery & Restaurant,,"#01-03 Dorsett Residences, 331 New Bridge Road, 088764",Bar or Pub,Asian • Beer • Czech • European • Nonya / Peranakan • Western • Wine
+https://www.hungrygowhere.com/singapore/stray-by-fat-cat-orchard-river-valley/,STRAY by Fat Cat,$$,"#04-22A/23 Orchard Central, 181 Orchard Road, 238896",Cafe,Asian • Chinese • Western
+https://www.hungrygowhere.com/singapore/stickies-bar-sunset-lane-clementi-west-coast/,Stickies Bar @ Sunset Lane (Sunset Lane),$$,"#01-50 Sunset Way Residence, 106 Clementi Street 12, 120106",Bar or Pub,Beer • Drinks • Western
+https://www.hungrygowhere.com/singapore/yi-ke-guan-joo-chiat-katong-east-coast/,Yi Ke Guan,,"57 East Coast Road, 428773",Restaurant,Local • Singaporean
+https://www.hungrygowhere.com/singapore/rong-hua-bak-kut-teh-punggol/,Rong Hua Bak Kut Teh (Waterway Point),,"#B1-23 Waterway Point, 83 Punggol Central, 828761",Restaurant,Asian • Chinese • Local
+https://www.hungrygowhere.com/singapore/the-beef-station/,The Beef Station,,"#01-05 The Venue Shoppes, 2 Tai Thong Crescent, 347836",Restaurant,Chinese • Hainanese
+https://www.hungrygowhere.com/singapore/washoku-cafe-macpherson-kallang/,Washoku Cafe,,"#01-27 The Venue Shoppes, 2 Tai Thong Crescent, 347836",Cafe,Fusion • Japanese
+https://www.hungrygowhere.com/singapore/sunny-choice/,Sunny Choice (Bukit Batok),,"#01-154, 630 Bukit Batok Central, 650630",Cafe,Asian • Fusion • Vegetarian
+https://www.hungrygowhere.com/singapore/you-ma-you-la-clementi-west-coast-02-05-06-07/,You Ma You La Ma La Hotpot (Clementi),,"#02-05/06/07 Grantral Mall @ Clementi Building, 3151 Commonwealth Avenue West, 129581",Kiosk or Stall,Chinese
+https://www.hungrygowhere.com/singapore/siam-square-mookata-bugis-beach-road/,Siam Square Mookata (Golden Mile Tower),,"#B1-63 Golden Mile Tower, 6001 Beach Road, 199589",Kiosk or Stall,Barbecue • Steamboat • Thai
+https://www.hungrygowhere.com/singapore/streats-hong-kong-cafe-tampines-simei/,Streats (Tampines 1),,"#B1-05 Tampines 1, 10 Tampines Central 1, 529536",Cafe,Halal • Hong Kong
+https://www.hungrygowhere.com/singapore/solo-ristorante/,Solo Ristorante,$$$$,"45 Amoy Street, 069871",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/coachman-inn-restaurant-changi-village-loyang/,Coachman Inn Restaurant,,"32 Netheravon Road, 508508",Restaurant,Asian • Local • Singaporean • Western
+https://www.hungrygowhere.com/singapore/khao-san-clementi-west-coast/,Khao San (Clementi),,"#01-01, 208C Clementi Avenue 6, 123208",Kiosk or Stall,Thai
+https://www.hungrygowhere.com/singapore/gelare-cafe-yishun/,Geláre (Yishun 10),,"#01-06/K2 Yishun 10, 51 Yishun Central 1, 768794",Cafe,Desserts • Halal • Western
+https://www.hungrygowhere.com/singapore/so-pho-woodlands/,So Pho (Causeway Point),,"#B1-16 Causeway Point, 1 Woodlands Square, 738099",Restaurant,Vietnamese
+https://www.hungrygowhere.com/singapore/fish-co-city-hall-high-street-clarke-quay-b1-63-64/,Fish & Co. (Raffles City),$$,"#B1-63/64, 252 North Bridge Road, 179103",Fast Food Place,Fusion • Halal • Western
+https://www.hungrygowhere.com/singapore/streats-hong-kong-cafe-bedok-chai-chee-upper-changi/,Streats (Bedok Mall),,"#01-75/76 Bedok Mall, 311 New Upper Changi Road, 467360",Cafe,Halal • Hong Kong
+https://www.hungrygowhere.com/singapore/sque-kitchen-alehouse/,SQUE Kitchen & Alehouse,,"#02-40 Mapletree Business City, 40 Pasir Panjang Road, 117373",Bar or Pub,Western
+https://www.hungrygowhere.com/singapore/hometown-cuisine-toa-payoh/,Hometown Cuisine,,"#01-572 Toa Payoh Central, 190 Lorong 6 Toa Payoh, 310190",Restaurant,Asian • Chinese
+https://www.hungrygowhere.com/singapore/bistro-duo/,Bistro @ Duo,$$$,"#01-25/26 Duo Galleria, 7 Fraser Street, 189356",Bar or Pub,Western
+https://www.hungrygowhere.com/singapore/red-holic/,Red Holic (Tanjong Pagar),,"88 Tanjong Pagar Road, 088509",Restaurant,Korean
+https://www.hungrygowhere.com/singapore/winestone-orchard-bukit-timah/,Winestone (Dine at Stevens),$$,"#01-09 Dine at Stevens, 30 Stevens Road, 257840",Bar or Pub,Drinks • Mediterranean • Pizza • Western • Wine
+https://www.hungrygowhere.com/singapore/ah-hua-kelong/,Ah Hua Kelong,,"15-9 Jalan Riang, 358987",Restaurant,Seafood
+https://www.hungrygowhere.com/singapore/ash-elm-bugis/,Ash & Elm,$$$$,"L1 InterContinental Singapore, 80 Middle Road, 188966",Restaurant,European • Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/il_Cielo__Hilton_Singapore_/,il Cielo (Hilton Singapore),$$$$,"Level 24 Hilton Hotel Singapore, 581 Orchard Road, 238883",Bar or Pub,Desserts • European • Italian • Western • Wine
+https://www.hungrygowhere.com/singapore/pastry_palette_gift_shop/,Pastry Palette,$,"Lobby Level Conrad Centennial Singapore, 2 Temasek Boulevard, 038982",Confectionery or Bakery,
+https://www.hungrygowhere.com/singapore/jamie-s-italian-orchard-river-valley-01-04/,Jamie's Italian (Forum),$$$,"#01-01/04 Forum The Shopping Mall, 583 Orchard Road, 238884",Restaurant,Italian • Pizza
+https://www.hungrygowhere.com/singapore/kopi_tiam_swissotel/,Kopi Tiam,$$,"Level 2 Swissotel The Stamford, 2 Stamford Road, 178882",Restaurant,Asian • Local • Singaporean
+https://www.hungrygowhere.com/singapore/eatzi_steakhouse_bistro_safra_yishun/,Eatzi Steakhouse & Bistro (Safra Yishun),$$,"Safra Country Club, 60 Yishun Ave 4, 769027",Restaurant,Halal • Western
+https://www.hungrygowhere.com/singapore/the-clifford-pier-raffles-place-boat-quay/,The Clifford Pier,$$$,"Clifford Pier / The Fullerton Bay Hotel, 80 Collyer Quay, 049326",Restaurant,Local • Western
+https://www.hungrygowhere.com/singapore/tonkichi_tampines_mall/,Tonkichi (Tampines Mall),$$,"#03-26/27 Tampines Mall, 4 Tampines Central 5, 529510",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/hard_rock_cafe_resorts_world_sentosa/,Hard Rock Cafe Sentosa (Resorts World Sentosa),$$,"#01-209 Resorts World Sentosa The Forum, 26 Sentosa Gateway, 098138",Restaurant,American • Western
+https://www.hungrygowhere.com/singapore/west_co_z_cafe/,West Co'z Cafe (West Coast Plaza),$,"#02-13/14/15/16/17/18/19/20/21/22/23 West Coast Plaza, 154 West Coast Road, 127371",Cafe,Chinese • Halal • Local • Singaporean • Thai
+https://www.hungrygowhere.com/singapore/Latteria_Mozzarella_Bar/,Latteria Mozzarella Bar,$$$,"40 Duxton Hill, 089618",Bar or Pub,European • Italian • Western
+https://www.hungrygowhere.com/singapore/waku-ghin-marina-south/,Waku Ghin,$$$$,"#02-01 Sands Expo And Convention Centre, 10 Bayfront Avenue, 018956",Restaurant,Cocktails • Drinks • European • Japanese • Wine
+https://www.hungrygowhere.com/singapore/aura-restaurant-city-hall-high-street-clarke-quay/,Aura Restaurant,$$$$,"#05-03 National Gallery Singapore, 1 Saint Andrew's Road, 178957",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/shang_palace/,Shang Palace,$$$$,"Lobby Level Shangri-La Hotel, 22 Orange Grove Road, 258350",Restaurant,Asian • Cantonese • Chinese
+https://www.hungrygowhere.com/singapore/sankai-japanese-restaurant-bugis/,Sankai Japanese Restaurant,$$,"#01-03, 1 Liang Seah Street, 189022",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/charcoal-thai-clementi-west-coast/,Charcoal Thai (321 Clementi Cinema Mall),$,"#02-08 321 Clementi, 321 Clementi Avenue 3, 129905",Restaurant,Asian • Indochinese • Thai
+https://www.hungrygowhere.com/singapore/indian_curry_house_east_coast/,Indian Curry House (Upper East Coast),$,"Crescendo Building, 27 Upper East Coast Road, 455211",Bar or Pub,Asian • Indian • North Indian • South Indian • Wine
+https://www.hungrygowhere.com/singapore/pasta-fresca-da-salvatore-ghim-moh-holland/,Pasta Fresca Da Salvatore (Royalville),$$,"#01-02/03 Royalville, 833 Bukit Timah Road, 279887",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/gudetama-cafe-suntec-city-hall/,Gudetama Cafe Singapore,$$,"#01-361 Suntec City Mall, 3 Temasek Boulevard, 038983",Cafe,Desserts • Drinks • Japanese
+https://www.hungrygowhere.com/singapore/seoul-yummy-korean-casual-dining-bugis/,Seoul Yummy (Bugis+),$$,"#04-11 Bugis+, 201 Victoria Street, 188067",Restaurant,Asian • Korean
+https://www.hungrygowhere.com/singapore/ash-char-tanjong-pagar-raffles-place/,Ash & Char,$$,"#01-03/04 The Clift, 21 Mccallum Street, 069047",Bar or Pub,Asian • Beer • Cocktails • Drinks • Western
+https://www.hungrygowhere.com/singapore/sushi-kou-anson-tanjong-pagar/,Sushi Kou,$$$$,"#01-16 Orchid Hotel, 1 Tras Link, 078867",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/thaipan_mandarin_gardens/,ThaiPan (Mandarin Gardens),$,"Mandarin Gardens, 13 Siglap Road, 448911",Restaurant,Asian • Chinese • Fusion • Thai
+https://www.hungrygowhere.com/singapore/tampopo_deli/,Tampopo Deli (Liang Court),$,"#B1-15/16/17/18 Liang Court, 177 River Valley Road, 179030",Cafe,Asian • Japanese
+https://www.hungrygowhere.com/singapore/lobby-lounge-orchard-river-valley/,Lobby Lounge (Marriott Hotel),$$,"Lobby Level Singapore Marriott Tang Plaza Hotel, 320 Orchard Road, 238865",Cafe,American
+https://www.hungrygowhere.com/singapore/wine-inn-balestier-whampoa-boon-keng/,Wine Inn,,"#01-19 Ramada Singapore At Zhongshan Park, 16 Ah Hood Road, 329984",Bar or Pub,Asian • Indian • South Indian • Western • Wine
+https://www.hungrygowhere.com/singapore/otto-ristorante-tanjong-pagar-raffles-place/,Otto Ristorante,$$$$,"#01-02 / 03 Maxwell Chambers, 32 Maxwell Road, 069115",Restaurant,Desserts • European • Italian • Modern European • Western
+https://www.hungrygowhere.com/singapore/the_daily_scoop_sunset_way/,The Daily Scoop (Sunset Way),$,"#01-04 Clementi Arcade, 41 Sunset Way, 597071",Cafe,Desserts • Western
+https://www.hungrygowhere.com/singapore/riders_cafe/,Riders Cafe,$$,"Bukit Timah Saddle Club, 51 Fairways Drive, 286965",Cafe,Steak and Grills • Western
+https://www.hungrygowhere.com/singapore/eng-s-wantan-noodle/,ENG's Wantan Noodle (Tanjong),,"287 Tanjong Katong Road, 437070",Restaurant,Chinese
+https://www.hungrygowhere.com/singapore/juice-tales-kembangan-kaki-bukit-changi-01-08/,Juice Tales,,"#01-08 Wis@changi, 116 Changi Road, 419718",Cafe,Drinks • Fruits & Drinks • Juices
+https://www.hungrygowhere.com/singapore/lluvia-cafe-tanjong-pagar-raffles-place/,Lluvia Café,,"Telok Ayer Conservation Area, 145 Telok Ayer Street, 068605",Cafe,Asian • Malaysian
+https://www.hungrygowhere.com/singapore/radici-italiane-cantonment-tanjong-pagar-chinatown/,Radici italiane,,"27 Tanjong Pagar Road, 088450",Restaurant,Italian
+https://www.hungrygowhere.com/singapore/lao-huo-tang-serangoon-03-08-09/,Lao Huo Tang (NEX),,"#03-08/09 Nex, 23 Serangoon Central, 556083",Restaurant,Asian • Cantonese • Chinese
+https://www.hungrygowhere.com/singapore/good-taste/,Good Taste,,"#01-4100, 720 Ang Mo Kio Avenue 6, 560720",Restaurant,Chinese
+https://www.hungrygowhere.com/singapore/hunger-s-kitchen/,Hunger's Kitchen,$,"#01-01 Shaw Towers, 100 Beach Road, 189702",Kiosk or Stall,Local • Western
+https://www.hungrygowhere.com/singapore/tea-valley-tiong-bahru-outram/,Tea Valley (Tiong Bahru Plaza),,"#02-110 Tiong Bahru Plaza, 302 Tiong Bahru Road, 168732",Kiosk or Stall,Taiwanese
+https://www.hungrygowhere.com/singapore/arbora/,Arbora,$$$,"#02-00, 109 Mount Faber Road, 099203",Restaurant,Cocktails • Drinks • Juices • Western
+https://www.hungrygowhere.com/singapore/red-holic-serangoon-b1-k01-k02-k05/,Red Holic (Serangoon Gardens),,"B1-K01/K02/K05 Serangoon Garden, 1 Maju Avenue, 556679",Restaurant,Korean
+https://www.hungrygowhere.com/singapore/tcc-osc/,TCC @ OSC,,"#02-01 Orchard Shopping Centre, 321 Orchard Road, 238866",Bar or Pub,Western
+https://www.hungrygowhere.com/singapore/pong-singapore/,PONG Singapore,$,"#01-17 The Foundry, 3B River Valley Road, 179021",Bar or Pub,Drinks
+https://www.hungrygowhere.com/singapore/mookata-home-thai-kitchen-little-india/,Mookata Home Thai Kitchen,$,"#01-02 Rangoon 88, 88 Rangoon Road, 218374",Restaurant,Asian • Barbecue • Steamboat • Thai
+https://www.hungrygowhere.com/singapore/san-yuan-ge/,San Yuan Ge,$$,"#02-25 International Merchandise Mart, 2 Jurong East Street 21, 609601",Restaurant,Asian • Chinese • Fusion • Singaporean
+https://www.hungrygowhere.com/singapore/siam-thai-tuckshop-punggol/,Siam Thai Tuckshop,,"#02-05 Safra Clubhouse (punggol), 9 Sentul Crescent, 828654",Restaurant,Thai
+https://www.hungrygowhere.com/singapore/fart-tartz-jurong-east-02-53/,Fart Tartz (JCube Mall),,"#02-53 JCube Mall, 2 Jurong East Central 1, 609731",Cafe,Desserts • Western
+https://www.hungrygowhere.com/singapore/jazz-bar-restaurant-the-southbridge-hotel-chinatown/,Jazz Bar Restaurant @The Southbridge Hotel,,"The Southbridge Hotel, 210 South Bridge Road, 058759",Bar or Pub,European • Italian • Western
+https://www.hungrygowhere.com/singapore/xiao-yu-cun-hougang-tai-seng-upper-serangoon/,Xiao Yu Cun,,"201 Upper Paya Lebar Road, 534876",Restaurant,Chinese
+https://www.hungrygowhere.com/singapore/national-kitchen-by-violet-oon-city-hall-high-street-clarke-quay/,National Kitchen by Violet Oon,$$$,"#02-01 National Gallery Singapore, 1 Saint Andrew's Road, 178957",Restaurant,Drinks • Local • Nonya / Peranakan • Singaporean • Wine
+https://www.hungrygowhere.com/singapore/tao-seafood-asiamarina-south/,TAO Seafood Asia,$$$,"#02-10 Asia Square Tower 2, 12 Marina View, 018961",Restaurant,Asian • Chinese • Local • Seafood • Singaporean
+https://www.hungrygowhere.com/singapore/ramen-champion/,Ramen Champion (Clark Quay Central),$$,"#03-89 The Central, 6 Eu Tong Sen Street, 059817",Restaurant,Asian • Japanese
+https://www.hungrygowhere.com/singapore/linas-cafe-bugis-beach-road/,Lina’s Café,$,"7 Jalan Pisang, 199074",Cafe,Asian • Western
+https://www.hungrygowhere.com/singapore/hospoda-microbrewery-bugis/,Hospoda Microbrewery,,"#01-19 Albert Court, 180 Albert Street, 189971",Restaurant,Beer • Czech • European • Western
+https://www.hungrygowhere.com/singapore/porn-s-pasir-panjang-science-park-kent-ridge/,Porn's (Alexandra Retail Centre),$,"#01-32 Alexandra Retail Centre, 460 Alexandra Road, 119963",Restaurant,Thai
+https://www.hungrygowhere.com/singapore/forlino/,Forlino,$$$$,"#02-06 One Fullerton, 1 Fullerton Road, 049213",Restaurant,European • Italian • Western
+https://www.hungrygowhere.com/singapore/indian_curry_house_bukit_timah/,Indian Curry House (Bukit Timah),$$,"#01-03 Sixth Avenue Center, 805 Bukit Timah Road, 279883",Bar or Pub,Asian • Indian • North Indian • South Indian • Wine
+https://www.hungrygowhere.com/singapore/TCC___The_Connoisseur__concerto_International_Building_/,TCC - The Connoisseur Concerto (International Building),$,"#01-01 International Building, 360 Orchard Road, 238869",Cafe,American • Desserts • Western
+https://www.hungrygowhere.com/singapore/spizza_jalan_kayu/,Spizza (Jalan Kayu),$$,"269 Jalan Kayu, 799497",Restaurant,European • Italian • Pizza
+https://www.hungrygowhere.com/singapore/pizzaexpress/,PizzaExpress (Duo),$,"#01-01/02 Duo Galleria, 7 Fraser Street, 189356",Restaurant,Italian • Western
+https://www.hungrygowhere.com/singapore/bengawan-solo-tiong-bahru-outram/,Bengawan Solo (SGH),$,"Level 1 Singapore General Hospital, 7 Outram Road, 169608",Cafe,Desserts • Snacks
+https://www.hungrygowhere.com/singapore/publico-deli/,Publico Deli,$$,"Level 1 Intercontinental Singapore Robertson Quay, 1 Nanson Road, 238909",Cafe,Desserts • Drinks • Italian
+https://www.hungrygowhere.com/singapore/jai-siam-joo-chiat-katong-east-coast/,Jai Siam (East Coast),$,"205 East Coast Road, 428904",Restaurant,Asian • Halal • Thai
+https://www.hungrygowhere.com/singapore/cafe_swiss/,Cafe Swiss,$$,"Level 2 Swissotel The Stamford, 2 Stamford Road, 178882",Restaurant,European • Swiss • Western
+https://www.hungrygowhere.com/singapore/wow-telok-blangah-harbourfront/,The WoW – World of Whisky,,"Imbiah Station Le Méridien Singapore, Sentosa, 23 Beach View, 098679",Bar or Pub,Cocktails • Drinks • Wine
+https://www.hungrygowhere.com/singapore/waterfall_lounge/,Waterfall Lounge,,"Furama Riverfront Singapore, 405 Havelock Road, 169633",Bar or Pub,Beer • Cocktails • Drinks • Western • Wine
+https://www.hungrygowhere.com/singapore/ice-edge-cafe-bar/,Ice Edge Cafe & Bar (Downtown East),$$,"#02-333 Downtown East E!Avenue, 1 Pasir Ris Close, 519599",Cafe,Desserts • Fusion • Western
+https://www.hungrygowhere.com/singapore/Wimbly_lu/,Wimbly Lu (Riang),$,"15-2 Jalan Riang, 358987",Cafe,Desserts • Drinks • Snacks • Western
+https://www.hungrygowhere.com/singapore/dessert_bowl/,Dessert Bowl,$,"80A Serangoon Garden Way, 555976",Cafe,Chinese • Desserts
+https://www.hungrygowhere.com/singapore/mo-bar-suntec-city-hall/,MO BAR,,"Mandarin Oriental, Singapore, 5 Raffles Avenue, 039797",Bar or Pub,Cocktails
+https://www.hungrygowhere.com/singapore/seoul-yummy-eunos-ubi-01-139/,Seoul Yummy (SingPost Centre),$$,"#01-139 Singapore Post Centre, 10 Eunos Road 8, 408600",Restaurant,Korean
+https://www.hungrygowhere.com/singapore/tian_tian_hainanese_chicken_rice_maxwell/,Tian Tian Hainanese Chicken Rice (Maxwell),$,"#01-10/11 Maxwell Food Centre, 1 Kadayanallur Street, 069184",Kiosk or Stall,Asian • Chinese • Hainanese • Local
+https://www.hungrygowhere.com/singapore/zai_shun_curry_fish_head/,Zai Shun Curry Fish Head,$,"#01-205 First Cooked Food Point, 253 Jurong East Street 24, 600253",Cafe,Asian • Chinese • Seafood
+https://www.hungrygowhere.com/singapore/gu_ma_jia_food_pot/,Gu Ma Jia Food Pot,$,"Sennett Estate, 45 Tai Thong Crescent, 347866",Restaurant,Asian • Chinese
+https://www.hungrygowhere.com/singapore/indian_mom_s_kitchen/,Indian Mom's Kitchen,$,"16 Desker Road, 209555",Kiosk or Stall,Asian • Indian • North Indian
+https://www.hungrygowhere.com/singapore/atrium-bar-317/,Atrium Bar 317,,"Holiday Inn Singapore Atrium, 317 Outram Road, 169075",Bar or Pub,Chinese • Drinks • Western
+https://www.hungrygowhere.com/singapore/al_qasr/,Qasr Grille & Mezze Bar,$$$,"Holland Village, 46 Lorong Mambong, 277698",Restaurant,Halal • Iranian • Lebanese • Middle Eastern
+https://www.hungrygowhere.com/singapore/seafood-soup-shop-bendemeer-kallang-boon-keng/,Seafood Soup Shop,$,"#01-2803 Market & Hawker Centre (blk 69 Geylang Bahru), 69 Geylang Bahru, 330069",Kiosk or Stall,Chinese • Seafood
